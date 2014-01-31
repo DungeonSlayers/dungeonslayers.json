@@ -1,0 +1,49 @@
+{
+    "weapons" : [
+        {
+            "id": "axe".
+            "name": "axe",
+            "twohanded": true,
+            "weaponbonus": 3,
+            "initative": -2,
+            "opponentdefense": 0,
+            "special": ""
+        },
+        {
+            "id": "battleflail".
+            "name": "Battle Flail",
+            "twohanded": false,
+            "weaponbonus": 3,
+            "initative": -4,
+            "opponentdefense": -4,
+            "special": "Character hits self when fumbling on melee attack (no fumble on hitting yourself)"
+        },
+        {
+            "id": "bowelven".
+            "name": "Bow, elven",
+            "twohanded": true,
+            "weaponbonus": 3,
+            "initative": 1,
+            "opponentdefense": 0,
+            "special": ""
+        },
+        {
+            "id": "bowlong".
+            "name": "Bow, long",
+            "twohanded": true,
+            "weaponbonus": 2,
+            "initative": 1,
+            "opponentdefense": 0,
+            "special": ""
+        },
+        {
+            "id": "bowshort".
+            "name": "Bow, short",
+            "twohanded": true,
+            "weaponbonus": 1,
+            "initative": 1,
+            "opponentdefense": 0,
+            "special": ""
+        }
+    ]
+}

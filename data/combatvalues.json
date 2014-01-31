@@ -1,0 +1,52 @@
+{
+    "combatvalues": [
+        {
+            "id": "hitpoints",
+            "name": "hit points",
+            "nameshort": "HP",
+            "formula": "body+constitution+10"
+        },
+        {
+            "id": "defense",
+            "name": "defense",
+            "nameshort": "DEF",
+            "formula": "body+constitution+armorvalue"
+        },
+        {
+            "id": "initiative",
+            "name": "initiative",
+            "nameshort": "INI",
+            "formula": "mobility+agility"
+        },
+        {
+            "id": "movementrate",
+            "name": "movement rate",
+            "nameshort": "MR",
+            "formula": "(mobility/2)+1"
+        },
+        {
+            "id": "meleeattack",
+            "name": "melee attack",
+            "nameshort": "MAT",
+            "formula": "body+strength+weaponbonus"
+        },
+        {
+            "id": "rangedattack",
+            "name": "ranged attack",
+            "nameshort": "RAT",
+            "formula": "mobility+dexterity+weaponbonus"
+        },
+        {
+            "id": "spellcasting",
+            "name": "spellcasting",
+            "nameshort": "SPC",
+            "formula": "mind+aura-armorvalue+spellmodifier"
+        },
+        {
+            "id": "targetedspellcasting",
+            "name": "targeted spellcasting",
+            "nameshort": "TSC",
+            "formula": "mind+dexterity-armorvalue+spellmodifier"
+        }
+    ]
+}
