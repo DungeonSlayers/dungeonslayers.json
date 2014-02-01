@@ -1,3 +1,7 @@
 module.exports = {
-    src: ['data/**/*.json']
+    src: [
+        'data/**/*.json',
+        'i18n/**/*.json',
+        'src/**/*.json'
+    ]
 };

@@ -1,7 +1,6 @@
 {
-    "weapons" : [
-        {
-            "id": "axe",
+    "weapons" : {
+        "axe": {
             "name": "axe",
             "twohanded": true,
             "weaponbonus": 3,
@@ -10,8 +9,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "battleflail",
+        "battleflail": {
             "name": "Battle Flail",
             "twohanded": false,
             "weaponbonus": 3,
@@ -20,8 +18,7 @@
             "type": "melee",
             "special": "Character hits self when fumbling on melee attack (no fumble on hitting yourself)"
         },
-        {
-            "id": "bowelven",
+        "bowelven": {
             "name": "Bow, elven",
             "twohanded": true,
             "weaponbonus": 3,
@@ -30,8 +27,7 @@
             "type": "range",
             "special": "Too unwieldy for dwarves because of size"
         },
-        {
-            "id": "bowlong",
+        "bowlong": {
             "name": "Bow, long",
             "twohanded": true,
             "weaponbonus": 2,
@@ -40,8 +36,7 @@
             "type": "range",
             "special": "Too unwieldy for dwarves because of size"
         },
-        {
-            "id": "bowshort",
+        "bowshort": {
             "name": "Bow, short",
             "twohanded": true,
             "weaponbonus": 1,
@@ -50,8 +45,7 @@
             "type": "range",
             "special": ""
         },
-        {
-            "id": "brassknuckles",
+        "brassknuckles": {
             "name": "Brass knuckles",
             "twohanded": false,
             "weaponbonus": 0,
@@ -60,8 +54,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "club",
+        "club": {
             "name": "Club",
             "twohanded": false,
             "weaponbonus": 1,
@@ -70,8 +63,7 @@
             "type": "melee",
             "special": "Breaks on MAT fumble"
         },
-        {
-            "id": "crossbowheavy",
+        "crossbowheavy": {
             "name": "Crossbow, heavy",
             "twohanded": true,
             "weaponbonus": 3,
@@ -80,8 +72,7 @@
             "type": "range",
             "special": ""
         },
-        {
-            "id": "crossbowlight",
+        "crossbowlight": {
             "name": "Crossbow, light",
             "twohanded": true,
             "weaponbonus": 2,
@@ -90,8 +81,7 @@
             "type": "range",
             "special": ""
         },
-        {
-            "id": "dagger",
+        "dagger": {
             "name": "Dagger",
             "twohanded": false,
             "weaponbonus": 0,
@@ -100,8 +90,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "dwarvenaxe",
+        "dwarvenaxe": {
             "name": "Dwarven Axe",
             "twohanded": true,
             "weaponbonus": 3,
@@ -110,8 +99,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "flail",
+        "flail": {
             "name": "Flail",
             "twohanded": false,
             "weaponbonus": 2,
@@ -120,8 +108,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "greataxe",
+        "greataxe": {
             "name": "Great Axe",
             "twohanded": true,
             "weaponbonus": 4,
@@ -130,8 +117,7 @@
             "type": "melee",
             "special": "Too unwieldy for dwarves because of size"
         },
-        {
-            "id": "halberd",
+        "halberd": {
             "name": "Halberd",
             "twohanded": true,
             "weaponbonus": 2,
@@ -140,8 +126,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "hammer",
+        "hammer": {
             "name": "Hammer",
             "twohanded": false,
             "weaponbonus": 1,
@@ -150,8 +135,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "hatchet",
+        "hatchet": {
             "name": "Hatchet",
             "twohanded": false,
             "weaponbonus": 1,
@@ -160,8 +144,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "lance",
+        "lance": {
             "name": "Lance",
             "twohanded": false,
             "weaponbonus": 1,
@@ -170,8 +153,7 @@
             "type": "melee",
             "special": "Breaks on MAT fumble, Only trot (WB+1) or gallop (WB+4)"
         },
-        {
-            "id": "mace",
+        "mace": {
             "name": "Mace/Morningstar",
             "twohanded": false,
             "weaponbonus": 1,
@@ -180,9 +162,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "quarterstaff",
-            "name": "Quarterstaff",
+        "quarterstaff": {
             "twohanded": true,
             "weaponbonus": 1,
             "initative": 0,
@@ -190,8 +170,7 @@
             "type": "melee",
             "special": "Targeted Spell Casting +1"
         },
-        {
-            "id": "sling",
+        "sling": {
             "name": "Sling",
             "twohanded": false,
             "weaponbonus": 0,
@@ -200,8 +179,7 @@
             "type": "range",
             "special": "Distance modifier -1 per 2m"
         },
-        {
-            "id": "spear",
+        "spear": {
             "name": "Spear",
             "twohanded": false,
             "weaponbonus": 1,
@@ -213,8 +191,7 @@
             ],
             "special": "Breaks on RAT fumble. Usable for melee or ranged combat"
         },
-        {
-            "id": "swordbroad",
+        "swordbroad": {
             "name": "Sword, broad",
             "twohanded": false,
             "weaponbonus": 1,
@@ -223,8 +200,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "swordlong",
+        "swordlong": {
             "name": "Sword, long",
             "twohanded": false,
             "weaponbonus": 2,
@@ -233,8 +209,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "heavyscimitar",
+        "heavyscimitar": {
             "name": "Scimitar, heavy",
             "twohanded": false,
             "weaponbonus": 2,
@@ -243,8 +218,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "swordshort",
+        "swordshort": {
             "name": "Sword, short",
             "twohanded": false,
             "weaponbonus": 1,
@@ -253,8 +227,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "lightscimitar",
+        "lightscimitar": {
             "name": "Scimitar, light",
             "twohanded": false,
             "weaponbonus": 1,
@@ -263,8 +236,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "throwingknife",
+        "throwingknife": {
             "name": "Throwing Knife",
             "twohanded": false,
             "weaponbonus": 0,
@@ -276,8 +248,7 @@
             ],
             "special": "Distance -1 per 2m,"
         },
-        {
-            "id": "twohandedsword",
+        "twohandedsword": {
             "name": "Two-handed Sword",
             "twohanded": true,
             "weaponbonus": 3,
@@ -286,8 +257,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "unarmed",
+        "unarmed": {
             "name": "Unarmed",
             "twohanded": false,
             "weaponbonus": 0,
@@ -296,8 +266,7 @@
             "type": "melee",
             "special": ""
         },
-        {
-            "id": "warhammer",
+        "warhammer": {
             "name": "War Hammer",
             "twohanded": true,
             "weaponbonus": 3,
@@ -306,5 +275,5 @@
             "type": "melee",
             "special": ""
         }
-    ]
+    }
 }

@@ -1,8 +1,6 @@
 {
-    "races": [
-
-        {
-            "id": "dwarves",
+    "races": {
+        "dwarves": {
             "name": "Dwarves",
             "racialbonus": [
                 "strength",
@@ -16,8 +14,7 @@
                 "Tough (Defense +1)"
             ]
         },
-        {
-            "id": "elves",
+        "elves": {
             "name": "Elves",
             "racialbonus": [
                 "agility",
@@ -31,8 +28,7 @@
                 "Immortal"
             ]
         },
-        {
-            "id": "humans",
+        "humans": {
             "name": "Humans",
             "racialbonus": [
                 "strength",
@@ -47,6 +43,5 @@
                 "1 free talent point"
             ]
         }
-
-    ]
+    }
 }
