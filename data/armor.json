@@ -4,72 +4,96 @@
 			"name": "Chainmail",
 			"name_deu": "Kettenpanzer",
 			"armorvalue": 2,
-			"special": "Movement Rate -0.5"
+			"movementrate": -0.5,
+			"initiative": 0,
+			"special": ""
 		},
 		"leatherarmor": {
 			"name": "Leather Armor",
 			"name_deu": "Lederpanzer",
 			"armorvalue": 1,
+			"movementrate": 0,
+			"initiative": 0,
 			"special": ""
 		},
 		"lethervambraceandgreaves": {
 			"name": "Leather Vambrace and Greaves",
 			"name_deu": "Lederschienen",
 			"armorvalue": 1,
+			"movementrate": 0,
+			"initiative": 0,
 			"special": ""
 		},
 		"metalhelmet": {
 			"name": "Metal Helmet",
 			"name_deu": "Metallhelm",
 			"armorvalue": 1,
-			"special": "Initiative -1"
+			"movementrate": 0,
+			"initiative": -1,
+			"special": ""
 		},
 		"plategreaves": {
 			"name": "Plate Greaves",
 			"name_deu": "Plattenarmschienen",
 			"armorvalue": 1,
-			"special": "Movement Rate -0.5"
+			"movementrate": -0.5,
+			"initiative": 0,
+			"special": ""
 		},
 		"platevambrace": {
 			"name": "Plate Vambrace",
 			"name_deu": "Plattenarmschienen",
 			"armorvalue": 1,
-			"special": "Movement Rate -0.5"
+			"movementrate": -0.5,
+			"initiative": 0,
+			"special": ""
 		},
 		"platearmor": {
 			"name": "Plate Armor",
 			"name_deu": "Plattenpanzer",
 			"armorvalue": 3,
-			"special": "Movement Rate -1. For a mount, use price *3"
+			"movementrate": -1,
+			"initiative": 0,
+			"special": "For a mount, use price *3"
 		},
 		"robe": {
 			"name": "Robe",
 			"name_deu": "Robe",
 			"armorvalue": 0,
+			"movementrate": 0,
+			"initiative": 0,
 			"special": ""
 		},
 		"runicrobe": {
 			"name": "Runic Robe",
 			"name_deu": "Robe (runenbestickt)",
 			"armorvalue": 0,
+			"movementrate": 0,
+			"initiative": 0,
 			"special": "Aura +1"
 		},
 		"shieldmetal": {
 			"name": "Shield, Metal",
 			"name_deu": "Schild, Metall",
 			"armorvalue": 1,
-			"special": "Movement Rate -0.5"
+			"movementrate": -0.5,
+			"initiative": 0,
+			"special": ""
 		},
 		"shieldtower": {
 			"name": "Shield, Tower",
 			"name_deu": "Schild, Turm",
 			"armorvalue": 2,
-			"special": "Movement Rate -1"
+			"movementrate": -1,
+			"initiative": 0,
+			"special": ""
 		},
 		"shieldwooden": {
 			"name": "Shield, Wooden",
-				"name_deu": "Schild, Holz",
+			"name_deu": "Schild, Holz",
 			"armorvalue": 1,
+			"movementrate": 0,
+			"initiative": 0,
 			"special": "Breaks on defense fumble"
 		}
 	}
