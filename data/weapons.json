@@ -2,6 +2,7 @@
 	"weapons": {
 		"axe": {
 			"name": "axe",
+			"name_deu": "Streitaxt",
 			"twohanded": true,
 			"weaponbonus": 3,
 			"initative": -2,
@@ -11,6 +12,7 @@
 		},
 		"battleflail": {
 			"name": "Battle Flail",
+			"name_deu": "chlachtgeißel",
 			"twohanded": false,
 			"weaponbonus": 3,
 			"initative": -4,
@@ -20,6 +22,7 @@
 		},
 		"bowelven": {
 			"name": "Bow, elven",
+			"name_deu": "Bogen, Elfen-",
 			"twohanded": true,
 			"weaponbonus": 3,
 			"initative": 1,
@@ -29,6 +32,7 @@
 		},
 		"bowlong": {
 			"name": "Bow, long",
+			"name_deu": "Bogen, Lang-",
 			"twohanded": true,
 			"weaponbonus": 2,
 			"initative": 1,
@@ -38,6 +42,7 @@
 		},
 		"bowshort": {
 			"name": "Bow, short",
+			"name_deu": "Bogen, Kurz-",
 			"twohanded": true,
 			"weaponbonus": 1,
 			"initative": 1,
@@ -47,6 +52,7 @@
 		},
 		"brassknuckles": {
 			"name": "Brass knuckles",
+			"name_deu": "Schlagring",
 			"twohanded": false,
 			"weaponbonus": 0,
 			"initative": 0,
@@ -56,6 +62,7 @@
 		},
 		"club": {
 			"name": "Club",
+			"name_deu": "Keule",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -65,6 +72,7 @@
 		},
 		"crossbowheavy": {
 			"name": "Crossbow, heavy",
+			"name_deu": "Armbrust, schwer ",
 			"twohanded": true,
 			"weaponbonus": 3,
 			"initative": -4,
@@ -74,6 +82,7 @@
 		},
 		"crossbowlight": {
 			"name": "Crossbow, light",
+			"name_deu": "Armbrust, leicht",
 			"twohanded": true,
 			"weaponbonus": 2,
 			"initative": -2,
@@ -83,6 +92,7 @@
 		},
 		"dagger": {
 			"name": "Dagger",
+			"name_deu": "Dolch",
 			"twohanded": false,
 			"weaponbonus": 0,
 			"initative": 1,
@@ -92,6 +102,7 @@
 		},
 		"dwarvenaxe": {
 			"name": "Dwarven Axe",
+			"name_deu": "Zwergenaxt",
 			"twohanded": true,
 			"weaponbonus": 3,
 			"initative": -1,
@@ -101,6 +112,7 @@
 		},
 		"flail": {
 			"name": "Flail",
+			"name_deu": "Flegel",
 			"twohanded": false,
 			"weaponbonus": 2,
 			"initative": -2,
@@ -110,6 +122,7 @@
 		},
 		"greataxe": {
 			"name": "Great Axe",
+			"name_deu": "Schlachtbeil",
 			"twohanded": true,
 			"weaponbonus": 4,
 			"initative": -6,
@@ -119,6 +132,7 @@
 		},
 		"halberd": {
 			"name": "Halberd",
+			"name_deu": "Hellebarde",
 			"twohanded": true,
 			"weaponbonus": 2,
 			"initative": -2,
@@ -128,6 +142,7 @@
 		},
 		"hammer": {
 			"name": "Hammer",
+			"name_deu": "Hammer",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -137,6 +152,7 @@
 		},
 		"hatchet": {
 			"name": "Hatchet",
+			"name_deu": "Axt",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -146,6 +162,7 @@
 		},
 		"lance": {
 			"name": "Lance",
+			"name_deu": "Lanze",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -155,6 +172,7 @@
 		},
 		"mace": {
 			"name": "Mace/Morningstar",
+			"name_deu": "Streitkolben/Morgenstern",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -163,6 +181,8 @@
 			"special": ""
 		},
 		"quarterstaff": {
+			"name": "Quarterstaff",
+			"name_deu": "Kampfstab",
 			"twohanded": true,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -172,6 +192,7 @@
 		},
 		"sling": {
 			"name": "Sling",
+			"name_deu": "Schleuder",
 			"twohanded": false,
 			"weaponbonus": 0,
 			"initative": 0,
@@ -181,6 +202,7 @@
 		},
 		"spear": {
 			"name": "Spear",
+			"name_deu": "Speer",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -193,6 +215,7 @@
 		},
 		"swordbroad": {
 			"name": "Sword, broad",
+			"name_deu": "Schwert, Breit-",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -202,6 +225,7 @@
 		},
 		"swordlong": {
 			"name": "Sword, long",
+			"name_deu": "Schwert, Lang-",
 			"twohanded": false,
 			"weaponbonus": 2,
 			"initative": 0,
@@ -211,6 +235,7 @@
 		},
 		"heavyscimitar": {
 			"name": "Scimitar, heavy",
+			"name_deu": "Krummschwerter",
 			"twohanded": false,
 			"weaponbonus": 2,
 			"initative": 0,
@@ -220,6 +245,7 @@
 		},
 		"swordshort": {
 			"name": "Sword, short",
+			"name_deu": "Schwert, Kurz-",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -229,6 +255,7 @@
 		},
 		"lightscimitar": {
 			"name": "Scimitar, light",
+			"name_deu": "Krummsäbel",
 			"twohanded": false,
 			"weaponbonus": 1,
 			"initative": 0,
@@ -238,6 +265,7 @@
 		},
 		"throwingknife": {
 			"name": "Throwing Knife",
+			"name_deu": "Wurfmesser",
 			"twohanded": false,
 			"weaponbonus": 0,
 			"initative": 0,
@@ -250,6 +278,7 @@
 		},
 		"twohandedsword": {
 			"name": "Two-handed Sword",
+			"name_deu": "Bihänder",
 			"twohanded": true,
 			"weaponbonus": 3,
 			"initative": -2,
@@ -259,6 +288,7 @@
 		},
 		"unarmed": {
 			"name": "Unarmed",
+			"name_deu": "Waffenlos",
 			"twohanded": false,
 			"weaponbonus": 0,
 			"initative": 0,
@@ -268,50 +298,13 @@
 		},
 		"warhammer": {
 			"name": "War Hammer",
+			"name_deu": "Streithammer",
 			"twohanded": true,
 			"weaponbonus": 3,
 			"initative": 0,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": ""
-		}
-	},
-	"armsor": {
-		"chainmail": {
-			"name": "Kettenpanzer"
-		},
-		"leatherarmor": {
-			"name": "Lederpanzer"
-		},
-		"lethervambraceandgreaves": {
-			"name": "Lederschienen"
-		},
-		"metalhelmet": {
-			"name": "Metallhelm"
-		},
-		"plategreaves": {
-			"name": "Plattenarmschienen"
-		},
-		"platevambrace": {
-			"name": "Plattenbeinschienen"
-		},
-		"platearmor": {
-			"name": "Plattenpanzer"
-		},
-		"robe": {
-			"name": "Robe"
-		},
-		"runicrobe": {
-			"name": "Robe (runenbestickt)"
-		},
-		"shieldmetal": {
-			"name": "Schild, Metall"
-		},
-		"shieldtower": {
-			"name": "Schild, Turm"
-		},
-		"shieldwooden": {
-			"name": "Schild, Holz"
 		}
 	}
 }
