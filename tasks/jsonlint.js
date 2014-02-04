@@ -1,6 +1,7 @@
 module.exports = {
     src: [
         'data/**/*.json',
-        'src/**/*.json'
+        'data-min/**/*.json',
+        'dungeonslayers.min.json',
     ]
 };

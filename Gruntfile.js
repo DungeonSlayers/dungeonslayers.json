@@ -15,5 +15,5 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-jsonlint');
     grunt.loadNpmTasks('grunt-minjson');
 
-    grunt.registerTask('default', ['jsonlint', 'minjson']);
+    grunt.registerTask('default', ['jsonlint', 'minjson', 'jsonlint']);
 };

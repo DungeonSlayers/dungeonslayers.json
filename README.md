@@ -2,5 +2,5 @@
 dungeonslayers.json
 =============
 
-Use you favorite editor to edit/create files in **data**. When you're finished run grunt to check and minify (output is **data-min**).
+Use you favorite editor to edit/create files in **data**. When you're finished run grunt to check and minify (output is **data-min** and dungeonslayers.json).
 
