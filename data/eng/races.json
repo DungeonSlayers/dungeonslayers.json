@@ -1,28 +1,47 @@
 {
-	"classes": {
-		"fighter": {
-			"name": "Fighter",
-			"classbonus": [
+	"races": {
+		"dwarves": {
+			"name": "Dwarves",
+			"racialbonus": [
 				"strength",
-				"constitution"
-			]
-		},
-		"scout": {
-			"name": "Scout",
-			"classbonus": [
-				"agility",
+				"constitution",
 				"dexterity"
+			],
+			"racialability": [
+				"Dark Vision",
+				"Longevity",
+				"Tough (Defense +1)"
 			]
 		},
-		"mage": {
-			"name": "Mage",
-			"classbonus": [
+		"elves": {
+			"name": "Elves",
+			"racialbonus": [
+				"agility",
+				"dexterity",
+				"aura"
+			],
+			"racialability": [
+				"Fleet Footed (Sneak- ing +2)",
+				"Night Vision",
+				"Immortal"
+			]
+		},
+		"humans": {
+			"name": "Humans",
+			"racialbonus": [
+				"strength",
+				"constitution",
+				"agility",
+				"dexterity",
 				"intellect",
 				"aura"
+			],
+			"racialability": [
+				"1 free talent point"
 			]
 		}
 	},
-	"armor": {
+	"armsor": {
 		"chainmail": {
 			"name": "Kettenpanzer"
 		},

@@ -1,4 +1,2 @@
-ds-characters
+dungeonslayers.json
 =============
-
-html/js toolset for the great tabletop rpg dungeonslayers(.com)

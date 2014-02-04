@@ -3,7 +3,7 @@
 		"chainmail": {
 			"name": "Kettenpanzer",
 			"armorvalue": 2,
-			"special": "Movement Rate -0.5"
+			"special": "Bewegung -0.5"
 		},
 		"leatherarmor": {
 			"name": "Lederpanzer",
@@ -13,7 +13,7 @@
 		"lethervambraceandgreaves": {
 			"name": "Lederschienen",
 			"armorvalue": 1,
-			"special": ""
+			"special": "Hierbei handelt es sich um Arm- und Beinschienen"
 		},
 		"metalhelmet": {
 			"name": "Metallhelm",
@@ -23,17 +23,17 @@
 		"plategreaves": {
 			"name": "Plattenarmschienen",
 			"armorvalue": 1,
-			"special": "Movement Rate -0.5"
+			"special": "Bewegung -0.5"
 		},
 		"platevambrace": {
 			"name": "Plattenbeinschienen",
 			"armorvalue": 1,
-			"special": "Movement Rate -0.5"
+			"special": "Bewegung -0.5"
 		},
 		"platearmor": {
 			"name": "Plattenpanzer",
 			"armorvalue": 3,
-			"special": "Movement Rate -1. For a mount, use price *3"
+			"special": "Bewegung -1. Für Reittier Preis x 3"
 		},
 		"robe": {
 			"name": "Robe",
@@ -48,17 +48,17 @@
 		"shieldmetal": {
 			"name": "Schild, Metall",
 			"armorvalue": 1,
-			"special": "Movement Rate -0.5"
+			"special": "Bewegung -0.5"
 		},
 		"shieldtower": {
 			"name": "Schild, Turm",
 			"armorvalue": 2,
-			"special": "Movement Rate -1"
+			"special": "Bewegung -1"
 		},
 		"shieldwooden": {
 			"name": "Schild, Holz",
 			"armorvalue": 1,
-			"special": "Breaks on defense fumble"
+			"special": "zerbricht bei einem Abwehr-Patzer"
 		}
 	}
 }

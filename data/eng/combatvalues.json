@@ -41,7 +41,7 @@
 			"formula": "mind+dexterity-armorvalue+spellmodifier"
 		}
 	},
-	"armor": {
+	"armsor": {
 		"chainmail": {
 			"name": "Kettenpanzer"
 		},
