@@ -2,142 +2,142 @@
     "mage": {
         "talents": {
             "acrobat" : {
-                "name": "Acrobat",
+                "name": "Akrobat",
                 "prequisite": 4,
                 "max": 3
             },
             "alchemy" : {
-                "name": "Alchemy",
+                "name": "Alchemie",
                 "prequisite": 1,
                 "max": 5
             },
             "alertness" : {
-                "name": "Alertness",
+                "name": "Wahrnehmung",
                 "prequisite": 1,
                 "max": 5
             },
-            "artisan" : {
-                "name": "artisan",
+            "Handwerk" : {
+                "name": "Handwerk",
                 "prequisite": 1,
                 "max": 3
             },
             "charming" : {
-                "name": "Charming",
+                "name": "Charmant",
                 "prequisite": 1,
                 "max": 3
             },
             "classmaster" : {
-                "name": "Class Master",
+                "name": "Meister seiner Klasse",
                 "prequisite": 15,
                 "max": 1
             },
             "closecombat" : {
-                "name": "Close Combat",
+                "name": "Kämpfer",
                 "prequisite": 8,
                 "max": 3
             },
             "defensivestance" : {
-                "name": "Defensive Stance",
+                "name": "In Deckung",
                 "prequisite": 8,
                 "max": 3
             },
             "devastation" : {
-                "name": "Devastation",
+                "name": "Verherer",
                 "prequisite": 8,
                 "max": 3
             },
             "dodge" : {
-                "name": "Dodge",
+                "name": "Ausweichen",
                 "prequisite": 1,
                 "max": 3
             },
             "education" : {
-                "name": "Education",
+                "name": "Bildung",
                 "prequisite": 1,
                 "max": 5
             },
             "embedmagics" : {
-                "name": "Embed Magics",
+                "name": "Einbetten",
                 "prequisite": 10,
                 "max": 5
             },
             "endurance" : {
-                "name": "Endurance",
+                "name": "Einstecker",
                 "prequisite": 1,
                 "max": 3
             },
             "enhancedcooldown" : {
-                "name": "Enhanced Cooldown",
+                "name": "Abklingen",
                 "prequisite": 4,
                 "max": 5
             },
             "expertise" : {
-                "name": "Expertise",
+                "name": "Wissensgebiet",
                 "prequisite": 1,
                 "max": 3
             },
             "familiar" : {
-                "name": "Familiar",
+                "name": "Vertrauter",
                 "prequisite": 4,
                 "max": 3
             },
             "grandmaster" : {
-                "name": "Grand Master",
+                "name": "Meister aller Klassen",
                 "prequisite": 20,
                 "max": 1
             },
             "herosluck" : {
-                "name": "Hero’s Luck",
+                "name": "Heldenglück",
                 "prequisite": 10,
                 "max": 3
             },
             "hunter" : {
-                "name": "Hunter",
+                "name": "Jäger",
                 "prequisite": 12,
                 "max": 3
             },
             "injure" : {
-                "name": "Injure",
+                "name": "Verletzen",
                 "prequisite": 12,
                 "max": 3
             },
             "lightningreflexes" : {
-                "name": "Lightning Reflexes",
+                "name": "Schnelle Reflexe",
                 "prequisite": 1,
                 "max": 3
             },
             "luckydevil" : {
-                "name": "Lucky Devil",
+                "name": "Glückspilz",
                 "prequisite": 1,
                 "max": 3
             },
             "marksman" : {
-                "name": "Marksman",
+                "name": "Schütze",
                 "prequisite": 1,
                 "max": 3
             },
             "nastyshot" : {
-                "name": "Nasty Shot",
+                "name": "Fieser Schuß",
                 "prequisite": 8,
                 "max": 3
             },
             "mindfulmagic" : {
-                "name": "Mindful Magic",
+                "name": "Zaubermacht",
                 "prequisite": 4,
                 "max": 3
             },
             "parry" : {
-                "name": "Parry",
+                "name": "Parade",
                 "prequisite": 12,
                 "max": 3
             },
             "playinstrument" : {
-                "name": "Play Instrument",
+                "name": "Instrument",
                 "prequisite": 1,
                 "max": 3
             },
             "rascal" : {
-                "name": "Rascal",
+                "name": "Schlitzohr",
                 "prequisite": 1,
                 "max": 3
             },
@@ -147,62 +147,62 @@
                 "max": 5
             },
             "recuperation" : {
-                "name": "Recuperation",
+                "name": "Genesung",
                 "prequisite": 1,
                 "max": 5
             },
             "resistmagic" : {
-                "name": "Resist Magic",
+                "name": "Magieresistent",
                 "prequisite": 1,
                 "max": 3
             },
             "riding" : {
-                "name": "Riding",
+                "name": "Reiten",
                 "prequisite": 1,
                 "max": 3
             },
             "runelore" : {
-                "name": "Rune Lore",
+                "name": "Runenkunde",
                 "prequisite": 1,
                 "max": 5
             },
             "sharpshooter" : {
-                "name": "Sharpshooter",
+                "name": "Scharfschütze",
                 "prequisite": 12,
                 "max": 3
             },
             "spellchanger" : {
-                "name": "Spellchanger",
+                "name": "Wechsler",
                 "prequisite": 1,
                 "max": 5
             },
             "spellmaster" : {
-                "name": "Spellmaster",
+                "name": "Spruchmeister",
                 "prequisite": 15,
                 "max": 3
             },
             "steadfast" : {
-                "name": "Steadfast",
+                "name": "Standhaft",
                 "prequisite": 8,
                 "max": 3
             },
             "stealth" : {
-                "name": "Stealth",
+                "name": "Heimlichkeit",
                 "prequisite": 4,
                 "max": 3
             },
             "swift" : {
-                "name": "Swift",
+                "name": "Flink",
                 "prequisite": 4,
                 "max": 3
             },
             "swim" : {
-                "name": "Swim",
+                "name": "Schwimmen",
                 "prequisite": 1,
                 "max": 3
             },
             "thievery" : {
-                "name": "Thievery",
+                "name": "Diebeskunst",
                 "prequisite": 8,
                 "max": 3
             }
