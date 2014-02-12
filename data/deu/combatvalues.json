@@ -1,0 +1,44 @@
+{
+	"combatvalues": {
+		"hitpoints": {
+			"name": "Lebenskraft",
+			"nameshort": "LK",
+			"formula": "body+constitution+10"
+		},
+		"defense": {
+			"name": "Abwehr",
+			"nameshort": "PA",
+			"formula": "body+constitution+armorvalue"
+		},
+		"initiative": {
+			"name": "Initiative",
+			"nameshort": "INI",
+			"formula": "mobility+agility"
+		},
+		"movementrate": {
+			"name": "Laufen",
+			"nameshort": "LA",
+			"formula": "(mobility/2)+1"
+		},
+		"meleeattack": {
+			"name": "Schlagen",
+			"nameshort": "SL",
+			"formula": "body+strength+weaponbonus"
+		},
+		"rangedattack": {
+			"name": "Schiessen",
+			"nameshort": "SI",
+			"formula": "mobility+dexterity+weaponbonus"
+		},
+		"spellcasting": {
+			"name": "Zaubern",
+			"nameshort": "ZA",
+			"formula": "mind+aura-armorvalue+spellmodifier"
+		},
+		"targetedspellcasting": {
+			"name": "Zielzauber",
+			"nameshort": "ZZ",
+			"formula": "mind+dexterity-armorvalue+spellmodifier"
+		}
+	}
+}

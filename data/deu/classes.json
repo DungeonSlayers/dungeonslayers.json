@@ -1,24 +1,21 @@
 {
 	"classes": {
 		"fighter": {
-			"name": "Fighter",
-			"name_deu": "Krieger",
+			"name": "Krieger",
 			"classbonus": [
 				"strength",
 				"constitution"
 			]
 		},
 		"scout": {
-			"name": "Scout",
-			"name_deu": "Späher",
+			"name": "Späher",
 			"classbonus": [
 				"agility",
 				"dexterity"
 			]
 		},
 		"mage": {
-			"name": "Mage",
-			"name_deu": "Zauberwirker",
+			"name": "Zauberwirker",
 			"classbonus": [
 				"intellect",
 				"aura"

@@ -1,0 +1,52 @@
+{
+	"attributes": {
+		"body": {
+			"name": "Körper",
+			"nameshort": "KÖR",
+			"traits": [
+				{
+					"id": "strength",
+					"name": "Stärke",
+					"nameshort": "ST"
+				},
+				{
+					"id": "constitution",
+					"name": "Härte",
+					"nameshort": "HÄ"
+				}
+			]
+		},
+		"mobility": {
+			"name": "Agilität",
+			"nameshort": "AGI",
+			"traits": [
+				{
+					"id": "agility",
+					"name": "Bewegung",
+					"nameshort": "BE"
+				},
+				{
+					"id": "dexterity",
+					"name": "Geschick",
+					"nameshort": "GE"
+				}
+			]
+		},
+		"mind": {
+			"name": "Geist",
+			"nameshort": "GEI",
+			"traits": [
+				{
+					"id": "intellect",
+					"name": "Verstand",
+					"nameshort": "VE"
+				},
+				{
+					"id": "aura",
+					"name": "Aura",
+					"nameshort": "AU"
+				}
+			]
+		}
+	}
+}

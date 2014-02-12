@@ -1,0 +1,25 @@
+{
+	"classes": {
+		"fighter": {
+			"name": "Fighter",
+			"classbonus": [
+				"strength",
+				"constitution"
+			]
+		},
+		"scout": {
+			"name": "Scout",
+			"classbonus": [
+				"agility",
+				"dexterity"
+			]
+		},
+		"mage": {
+			"name": "Mage",
+			"classbonus": [
+				"intellect",
+				"aura"
+			]
+		}
+	}
+}
