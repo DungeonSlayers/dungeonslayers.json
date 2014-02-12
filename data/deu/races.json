@@ -1,33 +1,33 @@
 {
 	"races": {
 		"dwarves": {
-			"name": "Dwarves",
+			"name": "Zwerg",
 			"racialbonus": [
 				"strength",
 				"constitution",
 				"dexterity"
 			],
 			"racialability": [
-				"Dark Vision",
-				"Longevity",
-				"Tough (Defense +1)"
+				"Dunkelsicht",
+				"Langlebig",
+				"Zäh (Abwehr +1)"
 			]
 		},
 		"elves": {
-			"name": "Elves",
+			"name": "Elf",
 			"racialbonus": [
 				"agility",
 				"dexterity",
 				"aura"
 			],
 			"racialability": [
-				"Fleet Footed (Sneak- ing +2)",
-				"Night Vision",
-				"Immortal"
+				"Leichtfüssig (Schleichen +2)",
+				"Nachticht",
+				"Unsterblich"
 			]
 		},
 		"humans": {
-			"name": "Humans",
+			"name": "Mensch",
 			"racialbonus": [
 				"strength",
 				"constitution",
@@ -37,7 +37,7 @@
 				"aura"
 			],
 			"racialability": [
-				"1 free talent point"
+				"1 freien Talentpunkt"
 			]
 		}
 	}
