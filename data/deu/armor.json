@@ -47,7 +47,7 @@
 			"armorvalue": 3,
 			"movementrate": -1,
 			"initiative": 0,
-			"special": "For a mount, use price *3"
+			"special": "Für Reittier Preis x 3"
 		},
 		"robe": {
 			"name": "Robe",
@@ -82,7 +82,7 @@
 			"armorvalue": 1,
 			"movementrate": 0,
 			"initiative": 0,
-			"special": "Breaks on defense fumble"
+			"special": "zerbricht bei einem Abwehr-Patzer"
 		}
 	}
 }

@@ -2,17 +2,17 @@
     "wizard": {
         "talents": {
             "arcaneexplosion" : {
-                "name": "arcaneexplosion",
+                "name": "Arkane Explosion",
                 "prequisite": 8,
                 "max": 3
             },
             "firemagic" : {
-                "name": "Fire Magic",
+                "name": "Feuermagier",
                 "prequisite": 4,
                 "max": 3
             },
             "lightningthrower" : {
-                "name": "Lightning Thrower",
+                "name": "Blitzmacher",
                 "prequisite": 8,
                 "max": 3
             },

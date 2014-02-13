@@ -2,7 +2,7 @@
     "wizard": {
         "talents": {
             "arcaneexplosion" : {
-                "name": "arcaneexplosion",
+                "name": "Arcane Explosion",
                 "prequisite": 8,
                 "max": 3
             },

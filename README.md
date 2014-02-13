@@ -2,6 +2,10 @@
 dungeonslayers.json
 =============
 
+##TODO
+[ ] add spells
+[ ] add talent details
+
 ##Files/Folders
 
 ###data/
@@ -9,6 +13,36 @@ dungeonslayers.json
 
 ###data-min/
 + minified source files
+
+```
+data-min
+├── deu
+│   ├── armor.min.json
+│   ├── attributes.min.json
+│   ├── class-fighter.min.json
+│   ├── class-mage-healer.min.json
+│   ├── class-mage-sorcerer.min.json
+│   ├── class-mage-wizard.min.json
+│   ├── class-mage.min.json
+│   ├── class-scout.min.json
+│   ├── classes.min.json
+│   ├── combatvalues.min.json
+│   ├── races.min.json
+│   └── weapons.min.json
+└── eng
+    ├── armor.min.json
+    ├── attributes.min.json
+    ├── class-fighter.min.json
+    ├── class-mage-healer.min.json
+    ├── class-mage-sorcerer.min.json
+    ├── class-mage-wizard.min.json
+    ├── class-mage.min.json
+    ├── class-scout.min.json
+    ├── classes.min.json
+    ├── combatvalues.min.json
+    ├── races.min.json
+    └── weapons.min.json
+```
 
 ###tasks/
 + grunt tasks

@@ -16,7 +16,7 @@
 			"initative": -4,
 			"opponentdefense": -4,
 			"type": "melee",
-			"special": "Character hits self when fumbling on melee attack (no fumble on hitting yourself)"
+			"special": "Bei Schlagen-Patzer trifft Angreifer sich selbst (Patzer ausgeschlossen)"
 		},
 		"bowelven": {
 			"name": "Bogen, Elfen-",
@@ -25,7 +25,7 @@
 			"initative": 1,
 			"opponentdefense": 0,
 			"type": "range",
-			"special": "Too unwieldy for dwarves because of size"
+			"special": "Für Zwerge auf Grund der Größe zu unhandlich"
 		},
 		"bowlong": {
 			"name": "Bogen, Lang-",
@@ -34,7 +34,7 @@
 			"initative": 1,
 			"opponentdefense": 0,
 			"type": "range",
-			"special": "Too unwieldy for dwarves because of size"
+			"special": "Für Zwerge auf Grund der Größe zu unhandlich"
 		},
 		"bowshort": {
 			"name": "Bogen, Kurz-",
@@ -61,7 +61,7 @@
 			"initative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
-			"special": "Breaks on MAT fumble"
+			"special": "Zerbricht bei Schlagen-Patzer"
 		},
 		"crossbowheavy": {
 			"name": "Armbrust, schwer ",
@@ -115,7 +115,7 @@
 			"initative": -6,
 			"opponentdefense": -4,
 			"type": "melee",
-			"special": "Too unwieldy for dwarves because of size"
+			"special": "Für Zwerge auf Grund der Größe zu unhandlich"
 		},
 		"halberd": {
 			"name": "Hellebarde",
@@ -151,7 +151,7 @@
 			"initative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
-			"special": "Breaks on MAT fumble, Only trot (WB+1) or gallop (WB+4)"
+			"special": "Zerbricht bei Schlagen-Patzer. Nur im Trab (WB+1) oder Galopp (WB+4)"
 		},
 		"mace": {
 			"name": "Streitkolben/Morgenstern",
@@ -169,7 +169,7 @@
 			"initative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
-			"special": "Targeted Spell Casting +1"
+			"special": "Zielzauber +1"
 		},
 		"sling": {
 			"name": "Schleuder",
@@ -178,7 +178,7 @@
 			"initative": 0,
 			"opponentdefense": 0,
 			"type": "range",
-			"special": "Distance modifier -1 per 2m"
+			"special": "Distanzmalus -1 pro 2m"
 		},
 		"spear": {
 			"name": "Speer",
@@ -190,7 +190,7 @@
 				"melee",
 				"range"
 			],
-			"special": "Breaks on RAT fumble. Usable for melee or ranged combat"
+			"special": "Zerbricht bei Schießen-Patzer. Sowohl für Nah- als auch Fernkampf"
 		},
 		"swordbroad": {
 			"name": "Schwert, Breit-",
@@ -247,7 +247,7 @@
 				"melee",
 				"range"
 			],
-			"special": "Distance -1 per 2m,"
+			"special": "Distanzmalus -1 pro 2m; auch Nahkampf geeignet"
 		},
 		"twohandedsword": {
 			"name": "Bihänder",
