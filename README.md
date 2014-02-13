@@ -3,8 +3,8 @@ dungeonslayers.json
 =============
 
 ##TODO
-[ ] add spells
-[ ] add talent details
+- [ ] add spells
+- [ ] add talent details
 
 ##Files/Folders
 
