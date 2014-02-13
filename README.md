@@ -8,10 +8,10 @@ dungeonslayers.json
 
 ##Files/Folders
 
-###data/
+###data
 + source files
 
-###data-min/
+###data-min
 + minified source files
 
 ```
@@ -29,6 +29,8 @@ data-min
 │   ├── combatvalues.min.json
 │   ├── races.min.json
 │   └── weapons.min.json
+├── dungeonslayers-deu.min.json
+├── dungeonslayers-eng.min.json
 └── eng
     ├── armor.min.json
     ├── attributes.min.json

@@ -4,7 +4,7 @@
 			"name": "axe",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -13,7 +13,7 @@
 			"name": "Battle Flail",
 			"twohanded": false,
 			"weaponbonus": 3,
-			"initative": -4,
+			"initiative": -4,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": "Character hits self when fumbling on melee attack (no fumble on hitting yourself)"
@@ -22,7 +22,7 @@
 			"name": "Bow, elven",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": "Too unwieldy for dwarves because of size"
@@ -31,7 +31,7 @@
 			"name": "Bow, long",
 			"twohanded": true,
 			"weaponbonus": 2,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": "Too unwieldy for dwarves because of size"
@@ -40,7 +40,7 @@
 			"name": "Bow, short",
 			"twohanded": true,
 			"weaponbonus": 1,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": ""
@@ -49,7 +49,7 @@
 			"name": "Brass knuckles",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -58,7 +58,7 @@
 			"name": "Club",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": "Breaks on MAT fumble"
@@ -67,7 +67,7 @@
 			"name": "Crossbow, heavy",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -4,
+			"initiative": -4,
 			"opponentdefense": -2,
 			"type": "range",
 			"special": ""
@@ -76,7 +76,7 @@
 			"name": "Crossbow, light",
 			"twohanded": true,
 			"weaponbonus": 2,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": ""
@@ -85,7 +85,7 @@
 			"name": "Dagger",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -94,7 +94,7 @@
 			"name": "Dwarven Axe",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -1,
+			"initiative": -1,
 			"opponentdefense": -2,
 			"type": "melee",
 			"special": ""
@@ -103,7 +103,7 @@
 			"name": "Flail",
 			"twohanded": false,
 			"weaponbonus": 2,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -112,7 +112,7 @@
 			"name": "Great Axe",
 			"twohanded": true,
 			"weaponbonus": 4,
-			"initative": -6,
+			"initiative": -6,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": "Too unwieldy for dwarves because of size"
@@ -121,7 +121,7 @@
 			"name": "Halberd",
 			"twohanded": true,
 			"weaponbonus": 2,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -130,7 +130,7 @@
 			"name": "Hammer",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -1,
 			"type": "melee",
 			"special": ""
@@ -139,7 +139,7 @@
 			"name": "Hatchet",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -148,7 +148,7 @@
 			"name": "Lance",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": "Breaks on MAT fumble, Only trot (WB+1) or gallop (WB+4)"
@@ -157,7 +157,7 @@
 			"name": "Mace/Morningstar",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -1,
 			"type": "melee",
 			"special": ""
@@ -166,7 +166,7 @@
 			"name": "Quarterstaff",
 			"twohanded": true,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": "Targeted Spell Casting +1"
@@ -175,7 +175,7 @@
 			"name": "Sling",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": "Distance modifier -1 per 2m"
@@ -184,7 +184,7 @@
 			"name": "Spear",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": [
 				"melee",
@@ -196,7 +196,7 @@
 			"name": "Sword, broad",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -2,
 			"type": "melee",
 			"special": ""
@@ -205,7 +205,7 @@
 			"name": "Sword, long",
 			"twohanded": false,
 			"weaponbonus": 2,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -214,7 +214,7 @@
 			"name": "Scimitar, heavy",
 			"twohanded": false,
 			"weaponbonus": 2,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -223,7 +223,7 @@
 			"name": "Sword, short",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -232,7 +232,7 @@
 			"name": "Scimitar, light",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -241,7 +241,7 @@
 			"name": "Throwing Knife",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": [
 				"melee",
@@ -253,7 +253,7 @@
 			"name": "Two-handed Sword",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": ""
@@ -262,7 +262,7 @@
 			"name": "Unarmed",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 5,
 			"type": "melee",
 			"special": ""
@@ -271,7 +271,7 @@
 			"name": "War Hammer",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": ""

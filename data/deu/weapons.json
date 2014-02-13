@@ -4,7 +4,7 @@
 			"name": "Streitaxt",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -13,7 +13,7 @@
 			"name": "Schlachtgeissel",
 			"twohanded": false,
 			"weaponbonus": 3,
-			"initative": -4,
+			"initiative": -4,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": "Bei Schlagen-Patzer trifft Angreifer sich selbst (Patzer ausgeschlossen)"
@@ -22,7 +22,7 @@
 			"name": "Bogen, Elfen-",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": "Für Zwerge auf Grund der Größe zu unhandlich"
@@ -31,7 +31,7 @@
 			"name": "Bogen, Lang-",
 			"twohanded": true,
 			"weaponbonus": 2,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": "Für Zwerge auf Grund der Größe zu unhandlich"
@@ -40,7 +40,7 @@
 			"name": "Bogen, Kurz-",
 			"twohanded": true,
 			"weaponbonus": 1,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": ""
@@ -49,7 +49,7 @@
 			"name": "Schlagring",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -58,7 +58,7 @@
 			"name": "Keule",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": "Zerbricht bei Schlagen-Patzer"
@@ -67,7 +67,7 @@
 			"name": "Armbrust, schwer ",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -4,
+			"initiative": -4,
 			"opponentdefense": -2,
 			"type": "range",
 			"special": ""
@@ -76,7 +76,7 @@
 			"name": "Armbrust, leicht",
 			"twohanded": true,
 			"weaponbonus": 2,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": ""
@@ -85,7 +85,7 @@
 			"name": "Dolch",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 1,
+			"initiative": 1,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -94,7 +94,7 @@
 			"name": "Zwergenaxt",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -1,
+			"initiative": -1,
 			"opponentdefense": -2,
 			"type": "melee",
 			"special": ""
@@ -103,7 +103,7 @@
 			"name": "Flegel",
 			"twohanded": false,
 			"weaponbonus": 2,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -112,7 +112,7 @@
 			"name": "Schlachtbeil",
 			"twohanded": true,
 			"weaponbonus": 4,
-			"initative": -6,
+			"initiative": -6,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": "Für Zwerge auf Grund der Größe zu unhandlich"
@@ -121,7 +121,7 @@
 			"name": "Hellebarde",
 			"twohanded": true,
 			"weaponbonus": 2,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -130,7 +130,7 @@
 			"name": "Hammer",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -1,
 			"type": "melee",
 			"special": ""
@@ -139,7 +139,7 @@
 			"name": "Axt",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -148,7 +148,7 @@
 			"name": "Lanze",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": "Zerbricht bei Schlagen-Patzer. Nur im Trab (WB+1) oder Galopp (WB+4)"
@@ -157,7 +157,7 @@
 			"name": "Streitkolben/Morgenstern",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -1,
 			"type": "melee",
 			"special": ""
@@ -166,7 +166,7 @@
 			"name": "Kampfstab",
 			"twohanded": true,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": "Zielzauber +1"
@@ -175,7 +175,7 @@
 			"name": "Schleuder",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "range",
 			"special": "Distanzmalus -1 pro 2m"
@@ -184,7 +184,7 @@
 			"name": "Speer",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": [
 				"melee",
@@ -196,7 +196,7 @@
 			"name": "Schwert, Breit-",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -2,
 			"type": "melee",
 			"special": ""
@@ -205,7 +205,7 @@
 			"name": "Schwert, Lang-",
 			"twohanded": false,
 			"weaponbonus": 2,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -214,7 +214,7 @@
 			"name": "Krummschwerter",
 			"twohanded": false,
 			"weaponbonus": 2,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -223,7 +223,7 @@
 			"name": "Schwert, Kurz-",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -232,7 +232,7 @@
 			"name": "Krummsäbel",
 			"twohanded": false,
 			"weaponbonus": 1,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": "melee",
 			"special": ""
@@ -241,7 +241,7 @@
 			"name": "Wurfmesser",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 0,
 			"type": [
 				"melee",
@@ -253,7 +253,7 @@
 			"name": "Bihänder",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": -2,
+			"initiative": -2,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": ""
@@ -262,7 +262,7 @@
 			"name": "Waffenlos",
 			"twohanded": false,
 			"weaponbonus": 0,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": 5,
 			"type": "melee",
 			"special": ""
@@ -271,7 +271,7 @@
 			"name": "Streithammer",
 			"twohanded": true,
 			"weaponbonus": 3,
-			"initative": 0,
+			"initiative": 0,
 			"opponentdefense": -4,
 			"type": "melee",
 			"special": ""
