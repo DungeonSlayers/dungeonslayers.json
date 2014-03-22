@@ -21,7 +21,7 @@
                 "prequisite": 4,
                 "max": 5
             },
-            "Handwerk" : {
+            "artisan" : {
                 "name": "Handwerk",
                 "prequisite": 1,
                 "max": 3
@@ -206,7 +206,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-           "weaponexpert" : {
+            "weaponexpert" : {
                 "name": "Waffenkenner",
                 "prequisite": 8,
                 "max": 3
@@ -479,7 +479,7 @@
                 "prequisite": 1,
                 "max": 5
             },
-            "Handwerk" : {
+            "artisan" : {
                 "name": "Handwerk",
                 "prequisite": 1,
                 "max": 3
@@ -683,7 +683,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-           "Beschwörer" : {
+           "conjurer" : {
                 "name": "Beschwörer",
                 "prequisite": 12,
                 "max": 3
@@ -703,7 +703,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "Nekromantie" : {
+            "necromancy" : {
                 "name": "Nekromantie",
                 "prequisite": 8,
                 "max": 3
@@ -733,7 +733,7 @@
                 "prequisite": 1,
                 "max": 5
             },
-            "Handwerk" : {
+            "artisan" : {
                 "name": "Handwerk",
                 "prequisite": 1,
                 "max": 3
@@ -858,7 +858,7 @@
                 "prequisite": 1,
                 "max": 3
             },
-           "reassessmagic" : {
+            "reassessmagic" : {
                 "name": "Reassess Magic",
                 "prequisite": 1,
                 "max": 5
@@ -947,7 +947,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "Fürsorger" : {
+            "caregiver" : {
                 "name": "Fürsorger",
                 "prequisite": 1,
                 "max": 3
@@ -972,7 +972,7 @@
                 "prequisite": 1,
                 "max": 3
             },
-            "Nekromantie" : {
+            "necromancy" : {
                 "name": "Nekromantie",
                 "prequisite": 8,
                 "max": 3
@@ -1002,7 +1002,7 @@
                 "prequisite": 1,
                 "max": 5
             },
-            "Handwerk" : {
+            "artisan" : {
                 "name": "Handwerk",
                 "prequisite": 1,
                 "max": 3
