@@ -926,7 +926,7 @@
         }
     },
     "healer": {
-        "name": "Healer",
+        "name": "Heiler",
         "classbonus": [
             "intellect",
             "aura"
