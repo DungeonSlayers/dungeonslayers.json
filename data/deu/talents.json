@@ -23,6 +23,7 @@
 
         "alchemy": {
             "name": "Alchemy",
+            "compact": "+1 Bonus auf Trankherstellung und -identifikation",
             "details": "Dieses Talent wird benötigt, um magische Tränke zu brauen (siehe Seite 101).Jeder Talentrang reduziert die Zubereitungsdauer von Tränken und gibt +1 auf Proben, um diese herzustellen oder zu identifizieren (siehe Seite 47)."
         },
         "arcaneexplosion": {
@@ -31,6 +32,7 @@
         },
         "dodge": {
             "name": "Ausweichen",
+            "compact": "Einen Nahkampfangriff ignorieren",
             "details": "Pro Talentrang kann der Charakter einmal pro Kampf einen gegen ihn gerichteten Nahkampfangriffkomplettignorieren(zählt als freie Aktion). Dass der Charakter einem Angriff ausweichen will, muss angesagt werden, bevor feststeht, ob dieser Schlag ihn trifft oder nicht. Gegen Angriffe von Gegnern, die 2+ Größenkategorien (siehe Seite 104) größer sind, ist das Talent wirkungslos."
         },
         "subduesummoned": {
@@ -51,7 +53,8 @@
         },
         "education": {
             "name": "Bildung",
-            "details": "Der Charakter hat einen gewissen Grad an Bildung erworben. ImGegensatzzudemTalentWissensgebiet, welchesnureinzelneThemengebieteumfasst, erhält man durch das Talent Bildung einen +2 Bonus pro Talentrang auf alle Proben, bei denen es um Allgemeinwissen oder das Lösen von Rätseln geht."
+            "compact": "+2 Bonus auf Allgemeinwissen/Rätsel lösen",
+            "details": "Der Charakter hat einen gewissen Grad an Bildung erworben. Im Gegensatz zu dem Talent Wissensgebiet, welches nur einzelne Themengebiete   umfasst, erhält man durch das Talent Bildung einen +2 Bonus pro Talentrang auf alle Proben, bei denen es um Allgemeinwissen oder das Lösen von Rätseln geht."
         },
         "lightningthrower": {
             "name": "Blitzmacher",
