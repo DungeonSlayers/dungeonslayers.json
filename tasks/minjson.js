@@ -8,6 +8,7 @@ module.exports = {
             'data-min/deu/weapons.min.json': 'data/deu/weapons.json',
             'data-min/deu/classes.min.json': 'data/deu/classes.json',
             'data-min/deu/talents.min.json': 'data/deu/talents.json',
+            'data-min/deu/spells.min.json': 'data/deu/spells.json',
 
             'data-min/eng/armor.min.json': 'data/eng/armor.json',
             'data-min/eng/attributes.min.json': 'data/eng/attributes.json',

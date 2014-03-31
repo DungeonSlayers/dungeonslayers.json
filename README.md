@@ -3,8 +3,15 @@ dungeonslayers.json
 =============
 
 ##TODO
-- [ ] add spells
-- [ ] add talent details
+- [ ] fix spell ids
+- [ ] add spell details
+- [ ] add spell prices
+- [ ] https://github.com/assemble/grunt-convert
+
+##Thanks
+- Friedemann Schneider: for talent short descriptions (german)
+- [Momo](http://s176520660.online.de/dungeonslayers/forum/index.php?action=profile;u=812): for basic spell data (german)
+
 
 ##Files/Folders
 
