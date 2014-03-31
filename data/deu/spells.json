@@ -8,7 +8,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Komplette Heilung",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
 
@@ -20,7 +20,7 @@
          "distance": "VE(m)",
          "cooldown": "24h",
          "compact": "Selbstständig kämpfendes magisches Schwert",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Balancieren": {
@@ -31,7 +31,7 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Sicheres balancieren",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Bannen": {
@@ -42,7 +42,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Bannt beschworene Kreaturen",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Blenden": {
@@ -53,7 +53,7 @@
          "distance": "VE x 5m",
          "cooldown": "5 KR",
          "compact": "Proben die Sicht benötigen -8",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Blitz": {
@@ -64,7 +64,7 @@
          "distance": "VE x 10m",
          "cooldown": "1 KR",
          "compact": "Schaden/Ziele in Metallrüstung keine Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Blut kochen": {
@@ -75,7 +75,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Schaden/Probenergebn.x2/Abwehr ohne Rüstung",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Botschaft": {
@@ -86,7 +86,7 @@
          "distance": "VE x 5km",
          "cooldown": "24h",
          "compact": "Botschaft bis zu VEx2 Wortsilben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Dämonen beschwören": {
@@ -97,7 +97,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "DS GRW S. 51 ff",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Duftnote": {
@@ -108,7 +108,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "+2 / -2 auf alle sozialen Proben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Durchlässig": {
@@ -119,7 +119,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "für VE/2 KR durchlässig",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Durchsicht": {
@@ -130,7 +130,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "bis zu VE/2m durch Objekte sehen",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Ebenentor": {
@@ -141,7 +141,7 @@
          "distance": "VE x 1m",
          "cooldown": "W20 Tage",
          "compact": "Öffnet ein Tor in eine andere Ebene",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Einschläfern": {
@@ -152,7 +152,7 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Schläfert (Stufe des ZAW) Personen ein",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
        "Elementar herbeirufen": {
@@ -163,7 +163,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "DS GRW S. 53ff",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Erdspalt": {
@@ -174,7 +174,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "DS GRW S. 54",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Federgleich": {
@@ -185,7 +185,7 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Probenergebnis x 2m zu Boden schweben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Feueratem": {
@@ -196,7 +196,7 @@
          "distance": "VE x 1m",
          "cooldown": "10 KR",
          "compact": "Trifft mehrere Gegner / nicht abwehrbar",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Feuerball": {
@@ -207,7 +207,7 @@
          "distance": "VE x 10m",
          "cooldown": "10 KR",
          "compact": "Radius VE(m) / nicht abwehrbar",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Feuerlanze": {
@@ -218,7 +218,7 @@
          "distance": "VE x 10m",
          "cooldown": "0 KR",
          "compact": "Schaden",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Feuerstrahl": {
@@ -229,7 +229,7 @@
          "distance": "VE x 5m",
          "cooldown": "0 KR",
          "compact": "Schaden",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Feuerwand": {
@@ -240,7 +240,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "1m x VE m x VE m / 2W20 Schaden",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Flackern": {
@@ -251,7 +251,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Ergebnis x 2 KR / Abwehr + GEI/2",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Flammeninferno": {
@@ -262,7 +262,7 @@
          "distance": "VE x 10m",
          "cooldown": "24h",
          "compact": "Radius-Schaden / nicht abwehrbar",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Flammenklinge": {
@@ -273,7 +273,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Klingenwaffe entzünden WB+1/magisch",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Fliegen": {
@@ -284,7 +284,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Ergebnis x 5 KR fliegen (Laufen verdoppeln)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Fluch": {
@@ -295,7 +295,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Ziel erleidet -2 auf alles Proben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Freund": {
@@ -306,7 +306,7 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "ZAW wird als sehr guter Freund angesehen",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Frostschock": {
@@ -317,7 +317,7 @@
          "distance": "VE x 10m",
          "cooldown": "10 KR",
          "compact": "Schaden keine Abwehr / magisch eingefroren",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Frostwaffe": {
@@ -328,7 +328,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Waffe in Kälte hüllen WB+1 / magisch",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Gasgestalt": {
@@ -339,7 +339,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Ergebnis x 5 KR Gasgestalt",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Geben und Nehmen": {
@@ -350,7 +350,7 @@
          "distance": "Berühren",
          "cooldown": "5 KR",
          "compact": "Ergebnis KR: heilt 50% verursachten Nahk.Schadens",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Gehorche": {
@@ -361,7 +361,7 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "für VE/2 KR unter Kontrolle des ZAW",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Giftbann": {
@@ -372,7 +372,7 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Neutralisiert ein nichtmagisches Gift",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Giftschutz": {
@@ -383,7 +383,7 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Ergebnis=Bonus für Giftresistenz-Proben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Glühender Glaube": {
@@ -394,7 +394,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Waffensegen WB+VE/2/Gegnerabwehr -VE/2",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Halt": {
@@ -405,7 +405,7 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "VE KR - Opfer unbeweglich",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Heilbeeren": {
@@ -416,7 +416,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Ergebnis Früchte haben Heilwirkung +1LK",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Heilende Aura": {
@@ -427,7 +427,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Ergebnis x2 KR Radius VE(m) 1LK Heilung/KR",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Heilende Hand": {
@@ -438,7 +438,7 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Heilung",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Heilende Strahlen": {
@@ -449,7 +449,7 @@
          "distance": "VE x 2m",
          "cooldown": "2 KR",
          "compact": "Heilt VE/2 Personen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Heilendes Feld": {
@@ -460,7 +460,7 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Heilt alle Verbündeten im Radius",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Heilendes Licht": {
@@ -471,7 +471,7 @@
          "distance": "VE x 2m",
          "cooldown": "2 KR",
          "compact": "Heilung",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Heiliger Hammer": {
@@ -482,7 +482,7 @@
          "distance": "VE x2m",
          "cooldown": "100 KR",
          "compact": "Selbstständig kämpfender Hammer aus Licht",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Kettenblitz": {
@@ -493,7 +493,7 @@
          "distance": "VE x 5m",
          "cooldown": "5 KR",
          "compact": "Trifft VE zus. Gegner/Metallrüstung keine Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Kleiner Terror": {
@@ -504,7 +504,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "max. Anz. ZAW-Stufe/2 fliehen VE KR",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Kontrollieren": {
@@ -515,7 +515,7 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Übernimmt Kontrolle über max (St.) Untote",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Körperexplosion": {
@@ -526,7 +526,7 @@
          "distance": "VE x 1m",
          "cooldown": "W20 Tage",
          "compact": "Ergebnis x4 / Abwehr ohn PA",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Lauschen": {
@@ -537,7 +537,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Hörzentrum bis zu VE x 5m verlegen",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Licht": {
@@ -548,7 +548,7 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Ergebnis in Minuten / Gegenstand leuchtet auf",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Lichtlanze": {
@@ -559,7 +559,7 @@
          "distance": "VE x 5m",
          "cooldown": "1 KR",
          "compact": "Schaden / WdD Gegnerabw. -2",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Lichtpfeil": {
@@ -570,7 +570,7 @@
          "distance": "VE x 5m",
          "cooldown": "1 KR",
          "compact": "Schaden / WdD Gegnerabw. -2",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Lichtsäule": {
@@ -581,7 +581,7 @@
          "distance": "VE x 10m",
          "cooldown": "1 KR",
          "compact": "Schaden / WdD Gegnerabw. -2",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Magie bannen": {
@@ -592,7 +592,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "DS GRW S. 62",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Magie entdecken": {
@@ -603,7 +603,7 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Ergebnisin KR lang automatisch Magie entdecken",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Magie identifizieren": {
@@ -614,7 +614,7 @@
          "distance": "Berühren",
          "cooldown": "1 KR",
          "compact": "Identifiziert magische Gegenstände",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Magische Barriere": {
@@ -625,7 +625,7 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Würfel max. VE/2 m³ / blockt sämtliche Magie",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Magische Rüstung": {
@@ -636,7 +636,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "ZAW erhält zusätzliche LK in Höhe des Ergebnis",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Magische Waffe": {
@@ -647,7 +647,7 @@
          "distance": "Berühren",
          "cooldown": "1 KR",
          "compact": "Waffe erhält WB+1 / gilt als magisch",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Magisches Schloss": {
@@ -658,7 +658,7 @@
          "distance": "Berühren",
          "cooldown": "5 KR",
          "compact": "Verschliesst ein(e) Gefäss/Tür (Schwierigkeit Erg.)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Manabrot": {
@@ -669,7 +669,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Erschafft max. Stufe/2 Brote (Mahlzeiten)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Nahrung zaubern": {
@@ -680,7 +680,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Erschafft max. Stufe Zutaten einfacher Mahlzeiten",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Netz": {
@@ -691,7 +691,7 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "Opfer halbieren Initiative, Laufen und Schlagen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Niesanfall": {
@@ -702,7 +702,7 @@
          "distance": "VE x 2m",
          "cooldown": "0 KR",
          "compact": "Opfer halbiert für 1 KR den Laufen-Wert",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Öffnen": {
@@ -713,7 +713,7 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Öffnet ein Schloss",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Putzteufel": {
@@ -724,7 +724,7 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Erschafft einen magischen Diener der für ihn putzt",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Reinigen": {
@@ -735,7 +735,7 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Reinigt eine/n schmutzige/n Person/Gegenstand",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Rost": {
@@ -746,7 +746,7 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Lässt nichtmag. Waffe/Rüstung zu Staub zerfallen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schatten": {
@@ -757,7 +757,7 @@
          "distance": "VE x 5m",
          "cooldown": "5 KR",
          "compact": "Schatten umhüllen das Ziel / -8 auf alle Handlungen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schatten erwecken": {
@@ -768,7 +768,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Erweckt tote Seelen / müssen kontrolliert werden",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schattenklinge": {
@@ -779,7 +779,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Waffenverzaub. (DdD) WB+1/gegn. Abwehr sinkt",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schattenlanze": {
@@ -790,7 +790,7 @@
          "distance": "VE x 10m",
          "cooldown": "0KR",
          "compact": "Schaden/DdL erhalten -2 auf Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schattenpfeil": {
@@ -801,7 +801,7 @@
          "distance": "VE x 10m",
          "cooldown": "0KR",
          "compact": "Schaden/DdL erhalten -2 auf Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schattensäule": {
@@ -812,7 +812,7 @@
          "distance": "VE x 10m",
          "cooldown": "0KR",
          "compact": "Schaden/+Vergeltung/DdL erhalten -2 auf Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schleudern": {
@@ -823,7 +823,7 @@
          "distance": "VE / 2m",
          "cooldown": "10 KR",
          "compact": "Schleudert das Ziel (Probe/3)m fort/Sturzschaden",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Schutzfeld": {
@@ -834,7 +834,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Radius VE(m) / nichtmag. Geschosse prallen ab",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schutzkuppel": {
@@ -845,7 +845,7 @@
          "distance": "Selbst",
          "cooldown": "W20 Tage",
          "compact": "Radius VE(m) / vollkommen unpassierbar",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schutzschild": {
@@ -856,7 +856,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Ziel erhält Probenergebnis als Bonus auf Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schutzschild dehnen": {
@@ -867,7 +867,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Verdoppelt die Dauer des Schutzschildes",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schutzschild stärken": {
@@ -878,7 +878,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Verdoppelt den Abwehrbonus des Schutzschildes",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schweben": {
@@ -889,7 +889,7 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Ziel kann schweben anstatt zu laufen (kein Rennen)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Schweig": {
@@ -900,7 +900,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Ziel verstummt für die Dauer des Zaubers",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Segen": {
@@ -911,7 +911,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "Zauberer und VE x2 Kameraden +1 auf alles",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Skelette erwecken": {
@@ -922,7 +922,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Erweckt Skelette / müssen kontrolliert werden",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Spionage": {
@@ -933,7 +933,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Hören/Sehen werden vom Körper getrennt",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Springen": {
@@ -944,7 +944,7 @@
          "distance": "Selbst",
          "cooldown": "10 KR",
          "compact": "Springt (Probenergebnis/2)m ",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Spurt": {
@@ -955,7 +955,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Laufen-Wert wird verdoppelt",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Steinwand": {
@@ -966,7 +966,7 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Erschafft eine dauerhafte Steinwand ",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Stolpern": {
@@ -977,7 +977,7 @@
          "distance": "VE x 5m",
          "cooldown": "100 KR",
          "compact": "Ziel stolpert / AGI+GE um nichts fallen zu lassen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Stossgebet": {
@@ -988,7 +988,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Druckwelle wirft Gegner im Radius (Stufex2)m um",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Tanz": {
@@ -999,7 +999,7 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "Ziel kann nur tanzen (Laufen max. 1m/KR)",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Tarnender Nebel": {
@@ -1010,7 +1010,7 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "Nebelwolke Radius von (VE)m -8 auf Sichtproben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Telekinese": {
@@ -1021,7 +1021,7 @@
          "distance": "VE x 5m",
          "cooldown": "0 KR",
          "compact": "Unbelebten Gegenstand schweben lassen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Teleport": {
@@ -1032,7 +1032,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Teleportiert Zauberer+(VE) Begleiter",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Terror": {
@@ -1043,7 +1043,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Schlägt (max. Stufe) in die Flucht",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Tierbeherrschung": {
@@ -1054,7 +1054,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Tier wird willenloser Sklave des Zauberers",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Tiere besänftigen": {
@@ -1065,7 +1065,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Besänftigt aggressive Tiere (nur nichtmagische)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Totengespräch": {
@@ -1076,7 +1076,7 @@
          "distance": "Berühren",
          "cooldown": "W20 Tage",
          "compact": "Geist muss (VE) Ja-Nein-Fragen beantworten",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Trugbild": {
@@ -1087,7 +1087,7 @@
          "distance": "VE x 1m",
          "cooldown": "100 KR",
          "compact": "Unbewegliche Illusion (max VE/2 qm)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Unsichtbares sehen": {
@@ -1098,7 +1098,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Ziel kann unsichtbare Objekte/Wesen sehen",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Unsichtbarkeit": {
@@ -1109,7 +1109,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Macht das Ziel samt seiner Ausrüstung unsichtbar",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verborgenes sehen": {
@@ -1120,7 +1120,7 @@
          "distance": "VE x 2m (R.)",
          "cooldown": "24h",
          "compact": "Zauberer kann verborgene Objekte entdecken",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verdampfen": {
@@ -1131,7 +1131,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Schaden / Probenergebnis x3 / keine PA",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Vergrößern": {
@@ -1142,7 +1142,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "GROSS / KÖR,ST,HÄ verdoppeln",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verkleinern": {
@@ -1153,7 +1153,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "WINZIG / KÖR,ST,HÄ halbieren Laufen/10",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verlangsamen": {
@@ -1164,7 +1164,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "10 KR",
          "compact": "Max. Stufe/2 Zielpersonen / Laufen halbieren",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Versetzen": {
@@ -1175,7 +1175,7 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Ziel wird Probe/2 m in Sichtlinie teleportiert",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Versetzte Stimme": {
@@ -1186,7 +1186,7 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Stimme wird an einen Punkt in Sichtlinie versetzt",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verteidigung": {
@@ -1197,7 +1197,7 @@
          "distance": "VE x 2m",
          "cooldown": "0 KR",
          "compact": "Ziel erhält Probenergebnis als Bonus auf Abwehr",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Vertreiben": {
@@ -1208,7 +1208,7 @@
          "distance": "VE x 2m (R.)",
          "cooldown": "100 KR",
          "compact": "Vertreibt max. Stufe/2 Untote (max. Probex5m)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verwandlung": {
@@ -1219,7 +1219,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "Nimmt das Aussehen einer anderen Person an",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Verwirren": {
@@ -1230,7 +1230,7 @@
          "distance": "VE x 2m (R.)",
          "cooldown": "10 KR",
          "compact": "Verwirrt das Ziel (s. Tabelle S. 74)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Volksgestalt": {
@@ -1241,7 +1241,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Max. VE Freiwillige werden äußerlich verwandelt",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wächter": {
@@ -1252,7 +1252,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Mag.Wächter alarmiert bei Annäherung auf VEx2m",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Waffe des Lichts": {
@@ -1263,7 +1263,7 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Waffenverzaub. (DdL) WB+1/eigene Abwehr steigt",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Wahnsinn": {
@@ -1274,7 +1274,7 @@
          "distance": "Berühren",
          "cooldown": "W20 Tage",
          "compact": "Ziel wird komplett Wahnsinnig",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wandöffnung": {
@@ -1285,7 +1285,7 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Öffnet ein Loch in max VEx10cm dicken Steinwand",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wasser teilen": {
@@ -1296,7 +1296,7 @@
          "distance": "Berühren",
          "cooldown": "W20 Tage",
          "compact": "1m breite Schneide in Gewässern schlagen",
-         "effet": "",
+         "effect": "",
          "type": "targetedspell"
       },
       "Wasser weihen": {
@@ -1307,7 +1307,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Zauberer stellt Probe/2 Einheiten Weihwasser her",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wasserwandeln": {
@@ -1318,7 +1318,7 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Kann über Wasser laufen (Probenergebnis in KR)",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wechselzauber": {
@@ -1329,7 +1329,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "1x aktionsfrei zu bestimmten Zauber wechseln",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wiederbelebung": {
@@ -1340,7 +1340,7 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Wiederbelebung einer gestorbenen Person",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wolke der Reue": {
@@ -1351,7 +1351,7 @@
          "distance": "VE x 5m",
          "cooldown": "100 KR",
          "compact": "-1 auf alle Proben wenn von der Wolke umgeben",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Wolke des Todes": {
@@ -1362,7 +1362,7 @@
          "distance": "VE x 5m",
          "cooldown": "100 KR",
          "compact": "-2 auf Angriffe/1+DdD nicht abwehrbarer Schaden",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Zauberabklang": {
@@ -1373,7 +1373,7 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "Setzt die Abklingzeit eines Zauber zurück auf",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Zauberleiter": {
@@ -1384,7 +1384,7 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Erschafft eine magische Leiter (VE x Stufe)m",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Zaubertrick": {
@@ -1395,7 +1395,7 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Erzeugt kleine unschädliche Illusionen",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Zeitstop": {
@@ -1406,7 +1406,7 @@
          "distance": "Selbst",
          "cooldown": "W20 Tage",
          "compact": "Hält für Probenergebnis KR die Zeit an",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       },
       "Zombies erwecken": {
@@ -1417,7 +1417,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Erweckt Leichen / müssen kontrolliert werden",
-         "effet": "",
+         "effect": "",
          "type": "spell"
       }
    }
