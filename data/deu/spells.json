@@ -2,13 +2,13 @@
    "spells" : {
       "Allheilung": {
          "name": "Allheilung",
-         "price": "",
+         "price": "650 GM",
          "bonus": "+0",
-         "duration": "",
+         "duration": "Augenblicklich",
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Komplette Heilung",
-         "effect": "",
+         "effect": "Dieser Zauber heilt sämtliche Verletzungen und schließt jede noch so große Wunde, ohne Narben zu hinterlassen. Selbst abgetrennte Gliedmaßen (sofern nicht mehr als W20 Stunden abgetrennt) lassen sich mit diesem Spruch wieder anfügen.",
          "type": "spell"
       },
 
