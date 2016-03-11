@@ -415,7 +415,7 @@
         "armoredmage": {
             "name": "Rüstzauberer",
             "compact": "+2 PA-Malus auf Zaubern/Zielzaubern",
-            "details": "Pro Talentrang kann ein Panzerungsmalus (PA)inHöhevon2beimZaubern/Zielzaubern ignoriert werden. Beispielsweise benötigt es 2 Talentränge, um ungehindert in einem Plattenpanzer (PA 3) samt Metallhelm (PA 1) zaubern zu können."
+            "details": "Pro Talentrang kann ein Panzerungsmalus (PA) in Höhe von 2 beim Zaubern/Zielzaubern ignoriert werden. Beispielsweise benötigt es 2 Talentränge, um ungehindert in einem Plattenpanzer (PA 3) samt Metallhelm (PA 1) zaubern zu können."
         },
         "salvo": {
             "name": "Salve",

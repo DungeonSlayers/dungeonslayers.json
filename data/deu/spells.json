@@ -1,6 +1,6 @@
 {
    "spells" : {
-      "Allheilung": {
+      "allheilung": {
          "name": "Allheilung",
          "price": "650 ",
          "bonus": "+0",
@@ -8,11 +8,11 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Komplette Heilung",
-         "effect": "Dieser Zauber heilt sämtliche Verletzungen und schließt jede noch so große Wunde, ohne Narben zu hinterlassen. Selbst abgetrennte Gliedmaßen (sofern nicht mehr als W20 Stunden abgetrennt) lassen sich mit diesem Spruch wieder anfügen.",
+         "details": "Dieser Zauber heilt sämtliche Verletzungen und schließt jede noch so große Wunde, ohne Narben zu hinterlassen. Selbst abgetrennte Gliedmaßen (sofern nicht mehr als W20 Stunden abgetrennt) lassen sich mit diesem Spruch wieder anfügen.",
          "type": "spell"
       },
 
-      "Arkanes Schwert": {
+      "arkanes-schwert": {
          "name": "Arkanes Schwert",
          "price": "920",
          "bonus": "+0",
@@ -20,10 +20,10 @@
          "distance": "VE(m)",
          "cooldown": "24h",
          "compact": "Selbstständig kämpfendes magisches Schwert",
-         "effect": "Ein Schwert aus hellem (oder je nach Belieben auch dunklem) Licht erscheint innerhalb eines Radius von VE in Metern um den Zauberwirker herum. Innerhalb dieses Wirkungsbereiches kämpft es völlig selbstständig, hört jedoch auf gedankliche Kampfkommandos seines Beschwöreres wie „Greif den großen Troll an“ oder „Schütze mich“. Bewegt sich der Zauberwirker, wandert der Wirkungsbereich des Schwertes mit ihm mit, so dass die magische Klinge niemals mehr als VE in Metern von ihm getrennt sein kann. Das Schwert löst sich in seine arkanen Bestandteile auf, sobald seine (nicht heilbaren) LK auf Null oder niedriger sinken bzw. die Zauberdauer verstrichen ist. Sämtliche Kampfwerte des Schwertes entsprechen der Stufe des Zauberwirkers +10. Die einzige Ausnahme bildet der Laufen- Wert, der dem doppelten Laufen-Wert des Zauberwirkers entspricht.",
+         "details": "Ein Schwert aus hellem (oder je nach Belieben auch dunklem) Licht erscheint innerhalb eines Radius von VE in Metern um den Zauberwirker herum. Innerhalb dieses Wirkungsbereiches kämpft es völlig selbstständig, hört jedoch auf gedankliche Kampfkommandos seines Beschwöreres wie „Greif den großen Troll an“ oder „Schütze mich“. Bewegt sich der Zauberwirker, wandert der Wirkungsbereich des Schwertes mit ihm mit, so dass die magische Klinge niemals mehr als VE in Metern von ihm getrennt sein kann. Das Schwert löst sich in seine arkanen Bestandteile auf, sobald seine (nicht heilbaren) LK auf Null oder niedriger sinken bzw. die Zauberdauer verstrichen ist. Sämtliche Kampfwerte des Schwertes entsprechen der Stufe des Zauberwirkers +10. Die einzige Ausnahme bildet der Laufen- Wert, der dem doppelten Laufen-Wert des Zauberwirkers entspricht.",
          "type": "spell"
       },
-      "Balancieren": {
+      "balancieren": {
          "name": "Balancieren",
          "price": "45",
          "bonus": "-2",
@@ -31,10 +31,10 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Sicheres balancieren",
-         "effect": "Das Ziel kann absolut sicher mit seinem reinen Laufen-Wert über dünne Seile u.ä. balancieren. Sobald der Zauber gewirkt wurde, gilt der Balancieren-Effekt und endet, nachdem der Charakter eine Strecke in Höhe des eigenen, doppelten Laufen-Wertes in Metern zurückgelegt hat.",
+         "details": "Das Ziel kann absolut sicher mit seinem reinen Laufen-Wert über dünne Seile u.ä. balancieren. Sobald der Zauber gewirkt wurde, gilt der Balancieren-Effekt und endet, nachdem der Charakter eine Strecke in Höhe des eigenen, doppelten Laufen-Wertes in Metern zurückgelegt hat.",
          "type": "spell"
       },
-      "Bannen": {
+      "bannen": {
          "name": "Bannen",
          "price": "255",
          "bonus": "speziell",
@@ -42,10 +42,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Bannt beschworene Kreaturen",
-         "effect": "Dieser Zauber vernichtet feindliche Dämonen, Elementare und Untote im Wirkungsradius. Maximal wird eine Anzahl von Wesenheiten vernichtet, die der halbierten Stufe des Zauberwirkers entspricht. Bei zu vielen Wesenheiten entscheidet der Zufall, welche betroffen sind. Alternativ können auch bestimmte, einzelne Wesenheiten als Ziel des Bannes bestimmt werden. Pro misslungenen Bannversuch steigt die Schwierigkeit um 2.",
+         "details": "Dieser Zauber vernichtet feindliche Dämonen, Elementare und Untote im Wirkungsradius. Maximal wird eine Anzahl von Wesenheiten vernichtet, die der halbierten Stufe des Zauberwirkers entspricht. Bei zu vielen Wesenheiten entscheidet der Zufall, welche betroffen sind. Alternativ können auch bestimmte, einzelne Wesenheiten als Ziel des Bannes bestimmt werden. Pro misslungenen Bannversuch steigt die Schwierigkeit um 2.",
          "type": "spell"
       },
-      "Blenden": {
+      "blenden": {
          "name": "Blenden",
          "price": "10",
          "bonus": "speziell",
@@ -53,10 +53,10 @@
          "distance": "VE x 5m",
          "cooldown": "5 KR",
          "compact": "Proben die Sicht benötigen -8",
-         "effect": "Ein gleißender Lichtstrahl schießt aus der Hand des Zauberwirkers und blendet bei Erfolg das Ziel (welches dagegen keine Abwehr würfeln darf). Ein geblendetes Ziel hat -8 auf alle Handlungen, bei denen es sehen können sollte. Selbst augenlose Untote, wie beispielsweise Skelette, werden durch das magische Licht geblendet. Blinde Lebewesen sind dagegen nicht betroffen.",
+         "details": "Ein gleißender Lichtstrahl schießt aus der Hand des Zauberwirkers und blendet bei Erfolg das Ziel (welches dagegen keine Abwehr würfeln darf). Ein geblendetes Ziel hat -8 auf alle Handlungen, bei denen es sehen können sollte. Selbst augenlose Untote, wie beispielsweise Skelette, werden durch das magische Licht geblendet. Blinde Lebewesen sind dagegen nicht betroffen.",
          "type": "targetedspell"
       },
-      "Blitz": {
+      "blitz": {
          "name": "Blitz",
          "price": "310",
          "bonus": "+3",
@@ -64,10 +64,10 @@
          "distance": "VE x 10m",
          "cooldown": "1 KR",
          "compact": "Schaden/Ziele in Metallrüstung keine Abwehr",
-         "effect": "Der Zauberwirker schießt einen Blitz auf einen Feind. Gegner in Metallrüstung dürfen keine Abwehr gegen Blitze würfeln.",
+         "details": "Der Zauberwirker schießt einen Blitz auf einen Feind. Gegner in Metallrüstung dürfen keine Abwehr gegen Blitze würfeln.",
          "type": "targetedspell"
       },
-      "Blut kochen": {
+      "blut-kochen": {
          "name": "Blut kochen",
          "price": "1580",
          "bonus": "speziell",
@@ -75,10 +75,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Schaden/Probenergebn.x2/Abwehr ohne Rüstung",
-         "effect": "Das Blut des Ziels beginnt auf magische Art und Weise zu kochen, ohne dass es gerinnt. Der innerlich wirkende Schaden entspricht dem doppelten Probenergebnis, das Ziel würfelt seine Abwehr ohne die Panzerungsboni seiner Gegenstände. Der Zauber ist gegen Wesen ohne Blut - wie beispielsweise viele Untote - nicht einsetzbar.",
+         "details": "Das Blut des Ziels beginnt auf magische Art und Weise zu kochen, ohne dass es gerinnt. Der innerlich wirkende Schaden entspricht dem doppelten Probenergebnis, das Ziel würfelt seine Abwehr ohne die Panzerungsboni seiner Gegenstände. Der Zauber ist gegen Wesen ohne Blut - wie beispielsweise viele Untote - nicht einsetzbar.",
          "type": "targetedspell"
       },
-      "Botschaft": {
+      "botschaft": {
          "name": "Botschaft",
          "price": "510",
          "bonus": "+0",
@@ -86,10 +86,10 @@
          "distance": "VE x 5km",
          "cooldown": "24h",
          "compact": "Botschaft bis zu VEx2 Wortsilben",
-         "effect": "Beauftragt ein geisterhaftes Abbild des Zaubernden bei einem ihm bekannten Wesen in Reichweite zu erscheinen und bis zu VE x 2 Wortsilben zu zitieren.",
+         "details": "Beauftragt ein geisterhaftes Abbild des Zaubernden bei einem ihm bekannten Wesen in Reichweite zu erscheinen und bis zu VE x 2 Wortsilben zu zitieren.",
          "type": "spell"
       },
-      "Dämonen beschwören": {
+      "dämonen-beschwören": {
          "name": "Dämonen beschwören",
          "price": "1190",
          "bonus": "speziell",
@@ -97,10 +97,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "DS GRW S. 51 ff",
-         "effect": "Mit diesem Zauber beschwört der Zauberwirker einen Dämon aus einer anderen Existenzebene. Der Charakter kann dabei frei wählen, was für eine Dämonenart (siehe Seite 107-108) er beschwören will und ob die Kreatur fliegen können soll (was ihre Beschwörung aber auch erschwert). Alle Dämonen hassen die niederen Wesen, die es wagen, sie zu beschwören, können ihnen bei einer erfolgreichen Beschwörung aber nichts anhaben. Beschworene Dämonen können nur jemanden angreifen, wenn ihr Beschwörer es ihnen befiehlt oder sie selbst angegriffen werden. Für Details bitte auf Seite 51 nachschlagen.",
+         "details": "Mit diesem Zauber beschwört der Zauberwirker einen Dämon aus einer anderen Existenzebene. Der Charakter kann dabei frei wählen, was für eine Dämonenart (siehe Seite 107-108) er beschwören will und ob die Kreatur fliegen können soll (was ihre Beschwörung aber auch erschwert). Alle Dämonen hassen die niederen Wesen, die es wagen, sie zu beschwören, können ihnen bei einer erfolgreichen Beschwörung aber nichts anhaben. Beschworene Dämonen können nur jemanden angreifen, wenn ihr Beschwörer es ihnen befiehlt oder sie selbst angegriffen werden. Für Details bitte auf Seite 51 nachschlagen.",
          "type": "spell"
       },
-      "Duftnote": {
+      "duftnote": {
          "name": "Duftnote",
          "price": "10",
          "bonus": "+0",
@@ -108,10 +108,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "+2 / -2 auf alle sozialen Proben",
-         "effect": "Das Ziel wird vom Zauberwirker mit einem Duft versehen. Dieser Geruch kann angenehm oder unangenehm sein und erleichtert bzw. erschwert sämtliche sozialen Proben des Ziels für die Wirkungsdauer um 2.",
+         "details": "Das Ziel wird vom Zauberwirker mit einem Duft versehen. Dieser Geruch kann angenehm oder unangenehm sein und erleichtert bzw. erschwert sämtliche sozialen Proben des Ziels für die Wirkungsdauer um 2.",
          "type": "spell"
       },
-      "Durchlässig": {
+      "durchlässig": {
          "name": "Durchlässig",
          "price": "920",
          "bonus": "-4",
@@ -119,10 +119,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "für VE/2 KR durchlässig",
-         "effect": "Der Zauberwirker wird mit samt seiner getragenen Ausrüstung durchlässig und kann für VE/2 Kampfrunden durch nichtmagische, unbelebte Objekte schreiten.",
+         "details": "Der Zauberwirker wird mit samt seiner getragenen Ausrüstung durchlässig und kann für VE/2 Kampfrunden durch nichtmagische, unbelebte Objekte schreiten.",
          "type": "spell"
       },
-      "Durchsicht": {
+      "durchsicht": {
          "name": "Durchsicht",
          "price": "280",
          "bonus": "-2",
@@ -130,10 +130,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "bis zu VE/2m durch Objekte sehen",
-         "effect": "Der Zauberwirker kann durch nichtmagische, unbelebte Objekte VE/2 Meter weit sehen.",
+         "details": "Der Zauberwirker kann durch nichtmagische, unbelebte Objekte VE/2 Meter weit sehen.",
          "type": "spell"
       },
-      "Ebenentor": {
+      "ebenentor": {
          "name": "Ebenentor",
          "price": "2580",
          "bonus": "-8",
@@ -141,10 +141,10 @@
          "distance": "VE x 1m",
          "cooldown": "W20 Tage",
          "compact": "Öffnet ein Tor in eine andere Ebene",
-         "effect": "öffnet ein Tor zu einer anderen Existenzebene, die der Zauberwirker namentlich nennen muss. Das Tor schließt sich, sobald VE/2 Wesen es durchschritten haben, oder die Spruchdauer abgelaufen ist.",
+         "details": "öffnet ein Tor zu einer anderen Existenzebene, die der Zauberwirker namentlich nennen muss. Das Tor schließt sich, sobald VE/2 Wesen es durchschritten haben, oder die Spruchdauer abgelaufen ist.",
          "type": "spell"
       },
-      "Einschläfern": {
+      "einschläfern": {
          "name": "Einschläfern",
          "price": "45",
          "bonus": "speziell",
@@ -152,10 +152,10 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Schläfert (Stufe des ZAW) Personen ein",
-         "effect": "Dieser Zauber schläfert eine maximale Anzahl von Zielen gleich der Stufe des Zauberwirkers ein. Es handelt sich dabei um einen natürlichen Schlaf, aus dem man durch Kampflärm u.ä. erwachen kann.",
+         "details": "Dieser Zauber schläfert eine maximale Anzahl von Zielen gleich der Stufe des Zauberwirkers ein. Es handelt sich dabei um einen natürlichen Schlaf, aus dem man durch Kampflärm u.ä. erwachen kann.",
          "type": "spell"
       },
-       "Elementar herbeirufen": {
+       "elementar-herbeirufen": {
          "name": "Elementar herbeirufen",
          "price": "920",
          "bonus": "speziell",
@@ -163,10 +163,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "DS GRW S. 53ff",
-         "effect": "Dieser Zauber ruft ein Elementar von seiner Ebene herbei und existiert in vier unterschiedlichen Varianten (Erde, Feuer, Luft und Wasser - jeweils ein einzelner Spruch). Alle Elementare (siehe Seite 110-112) existieren in drei verschiedenen Elementarstufen (I-III), zwischen denen man frei wählen kann. Elementare verachten die niederen Wesen, die es wagen, sie herbeizurufen, können ihnen bei einer erfolgreichen Herbeirufung aber nichts anhaben und kämpfen nur, wenn man sie angreift oder ihr Herbeirufer es befiehlt. Für Details bitte auf Seite 53 nachschlagen.",
+         "details": "Dieser Zauber ruft ein Elementar von seiner Ebene herbei und existiert in vier unterschiedlichen Varianten (Erde, Feuer, Luft und Wasser - jeweils ein einzelner Spruch). Alle Elementare (siehe Seite 110-112) existieren in drei verschiedenen Elementarstufen (I-III), zwischen denen man frei wählen kann. Elementare verachten die niederen Wesen, die es wagen, sie herbeizurufen, können ihnen bei einer erfolgreichen Herbeirufung aber nichts anhaben und kämpfen nur, wenn man sie angreift oder ihr Herbeirufer es befiehlt. Für Details bitte auf Seite 53 nachschlagen.",
          "type": "spell"
       },
-      "Erdspalt": {
+      "erdspalt": {
          "name": "Erdspalt",
          "price": "325",
          "bonus": "-4",
@@ -174,10 +174,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "DS GRW S. 54",
-         "effect": "Auf festem Boden öffnet der Zauber einen Erdspalt. Der Erdspalt ist bis zu VE in Meter breit und VE/2 in Metern lang und tief. Stehen Wesen an der Stelle, unter der der Erdspalt erscheint, können sie mit AGI+BE augenblicklich versuchen, noch in Sicherheit zu springen (zählt als freie Aktion). Wesen, die sich in der Erdspalte befinden, wenn diese sich wieder schließt, erhalten augenblicklich 2W20 nicht abwehrbaren Schaden und sind - ohne noch richtig atmen zu können - eingeschlossen.",
+         "details": "Auf festem Boden öffnet der Zauber einen Erdspalt. Der Erdspalt ist bis zu VE in Meter breit und VE/2 in Metern lang und tief. Stehen Wesen an der Stelle, unter der der Erdspalt erscheint, können sie mit AGI+BE augenblicklich versuchen, noch in Sicherheit zu springen (zählt als freie Aktion). Wesen, die sich in der Erdspalte befinden, wenn diese sich wieder schließt, erhalten augenblicklich 2W20 nicht abwehrbaren Schaden und sind - ohne noch richtig atmen zu können - eingeschlossen.",
          "type": "spell"
       },
-      "Federgleich": {
+      "federgleich": {
          "name": "Federgleich",
          "price": "110",
          "bonus": "+0",
@@ -185,10 +185,10 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Probenergebnis x 2m zu Boden schweben",
-         "effect": "Das Ziel - samt seiner getragenen Ausrüstung - kann aus einer Höhe gleich dem doppelten Probenergebniss in Metern sanft wie ein Feder ungelenkt zu Boden gleiten (1m pro Kampfrunde). Der federgleiche Fall muss spätestens 1 Minute, nachdem der Zauber gewirkt wurde, begonnen werden, sonst verfällt sein Effekt.",
+         "details": "Das Ziel - samt seiner getragenen Ausrüstung - kann aus einer Höhe gleich dem doppelten Probenergebniss in Metern sanft wie ein Feder ungelenkt zu Boden gleiten (1m pro Kampfrunde). Der federgleiche Fall muss spätestens 1 Minute, nachdem der Zauber gewirkt wurde, begonnen werden, sonst verfällt sein Effekt.",
          "type": "spell"
       },
-      "Feueratem": {
+      "feueratem": {
          "name": "Feueratem",
          "price": "460",
          "bonus": "+3",
@@ -196,10 +196,10 @@
          "distance": "VE x 1m",
          "cooldown": "10 KR",
          "compact": "Trifft mehrere Gegner / nicht abwehrbar",
-         "effect": "Aus dem Mund des Zauberwirkers schießt eine lodernde Säule, die alle hintereinander stehenden Gegner in einer 1m breiten, geraden Schneise in Flammen hüllt. Der feurige Atem verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses.",
+         "details": "Aus dem Mund des Zauberwirkers schießt eine lodernde Säule, die alle hintereinander stehenden Gegner in einer 1m breiten, geraden Schneise in Flammen hüllt. Der feurige Atem verursacht nicht abwehrbaren Schaden in Höhe des Probenergebnisses.",
          "type": "targetedspell"
       },
-      "Feuerball": {
+      "feuerball": {
          "name": "Feuerball",
          "price": "460",
          "bonus": "+3",
@@ -207,10 +207,10 @@
          "distance": "VE x 10m",
          "cooldown": "10 KR",
          "compact": "Radius VE(m) / nicht abwehrbar",
-         "effect": "Der Zauberwirker schießt einen flammenden Ball auf seine Gegner, der in einer feurigen Explosion - ihr Radius entspricht der VE des Zauberwirkers in Metern - endet, welche nicht abwehrbaren Schaden in Höhe des Probenergebnisses verursacht.",
+         "details": "Der Zauberwirker schießt einen flammenden Ball auf seine Gegner, der in einer feurigen Explosion - ihr Radius entspricht der VE des Zauberwirkers in Metern - endet, welche nicht abwehrbaren Schaden in Höhe des Probenergebnisses verursacht.",
          "type": "targetedspell"
       },
-      "Feuerlanze": {
+      "feuerlanze": {
          "name": "Feuerlanze",
          "price": "210",
          "bonus": "+2",
@@ -218,10 +218,10 @@
          "distance": "VE x 10m",
          "cooldown": "0 KR",
          "compact": "Schaden",
-         "effect": "Dies ist eine mächtigere Variante des Zaubers Feuerstrahl.",
+         "details": "Dies ist eine mächtigere Variante des Zaubers Feuerstrahl.",
          "type": "targetedspell"
       },
-      "Feuerstrahl": {
+      "feuerstrahl": {
          "name": "Feuerstrahl",
          "price": "10",
          "bonus": "+1",
@@ -229,10 +229,10 @@
          "distance": "VE x 5m",
          "cooldown": "0 KR",
          "compact": "Schaden",
-         "effect": "Der Zauberwirker schießt einen Feuerstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht.",
+         "details": "Der Zauberwirker schießt einen Feuerstrahl auf einen Feind, dessen Schaden dem Probenergebnis entspricht.",
          "type": "targetedspell"
       },
-      "Feuerwand": {
+      "feuerwand": {
          "name": "Feuerwand",
          "price": "360",
          "bonus": "-2",
@@ -240,10 +240,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "1m x VE m x VE m / 2W20 Schaden",
-         "effect": "Der Zauberwirker lässt eine Feuerwand erscheinen, die Ausmaße von maximal 1m x VE m x VE m annehmen kann. Wesen, die an der Stelle stehen, wo die Feuerwand erscheint, oder durch sie hindurch springen, erhalten 2W20 abwehrbaren Schaden.",
+         "details": "Der Zauberwirker lässt eine Feuerwand erscheinen, die Ausmaße von maximal 1m x VE m x VE m annehmen kann. Wesen, die an der Stelle stehen, wo die Feuerwand erscheint, oder durch sie hindurch springen, erhalten 2W20 abwehrbaren Schaden.",
          "type": "spell"
       },
-      "Flackern": {
+      "flackern": {
          "name": "Flackern",
          "price": "",
          "bonus": "-2",
@@ -251,10 +251,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Ergebnis x 2 KR / Abwehr + GEI/2",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Flammeninferno": {
+      "flammeninferno": {
          "name": "Flammeninferno",
          "price": "",
          "bonus": "+5",
@@ -262,10 +262,10 @@
          "distance": "VE x 10m",
          "cooldown": "24h",
          "compact": "Radius-Schaden / nicht abwehrbar",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Flammenklinge": {
+      "flammenklinge": {
          "name": "Flammenklinge",
          "price": "",
          "bonus": "+0",
@@ -273,10 +273,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Klingenwaffe entzünden WB+1/magisch",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Fliegen": {
+      "fliegen": {
          "name": "Fliegen",
          "price": "",
          "bonus": "+0",
@@ -284,10 +284,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Ergebnis x 5 KR fliegen (Laufen verdoppeln)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Fluch": {
+      "fluch": {
          "name": "Fluch",
          "price": "",
          "bonus": "speziell",
@@ -295,10 +295,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Ziel erleidet -2 auf alles Proben",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Freund": {
+      "freund": {
          "name": "Freund",
          "price": "",
          "bonus": "speziell",
@@ -306,10 +306,10 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "ZAW wird als sehr guter Freund angesehen",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Frostschock": {
+      "frostschock": {
          "name": "Frostschock",
          "price": "",
          "bonus": "+3",
@@ -317,10 +317,10 @@
          "distance": "VE x 10m",
          "cooldown": "10 KR",
          "compact": "Schaden keine Abwehr / magisch eingefroren",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Frostwaffe": {
+      "frostwaffe": {
          "name": "Frostwaffe",
          "price": "",
          "bonus": "+0",
@@ -328,10 +328,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Waffe in Kälte hüllen WB+1 / magisch",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Gasgestalt": {
+      "gasgestalt": {
          "name": "Gasgestalt",
          "price": "",
          "bonus": "+0",
@@ -339,10 +339,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Ergebnis x 5 KR Gasgestalt",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Geben und Nehmen": {
+      "geben-und-nehmen": {
          "name": "Geben und Nehmen",
          "price": "",
          "bonus": "+0",
@@ -350,10 +350,10 @@
          "distance": "Berühren",
          "cooldown": "5 KR",
          "compact": "Ergebnis KR: heilt 50% verursachten Nahk.Schadens",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Gehorche": {
+      "gehorche": {
          "name": "Gehorche",
          "price": "",
          "bonus": "speziell",
@@ -361,10 +361,10 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "für VE/2 KR unter Kontrolle des ZAW",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Giftbann": {
+      "giftbann": {
          "name": "Giftbann",
          "price": "",
          "bonus": "+0",
@@ -372,10 +372,10 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Neutralisiert ein nichtmagisches Gift",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Giftschutz": {
+      "giftschutz": {
          "name": "Giftschutz",
          "price": "",
          "bonus": "+0",
@@ -383,10 +383,10 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Ergebnis=Bonus für Giftresistenz-Proben",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Glühender Glaube": {
+      "glühender-glaube": {
          "name": "Glühender Glaube",
          "price": "",
          "bonus": "-2",
@@ -394,10 +394,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Waffensegen WB+VE/2/Gegnerabwehr -VE/2",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Halt": {
+      "halt": {
          "name": "Halt",
          "price": "",
          "bonus": "speziell",
@@ -405,10 +405,10 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "VE KR - Opfer unbeweglich",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Heilbeeren": {
+      "heilbeeren": {
          "name": "Heilbeeren",
          "price": "",
          "bonus": "+0",
@@ -416,10 +416,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Ergebnis Früchte haben Heilwirkung +1LK",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Heilende Aura": {
+      "heilende-aura": {
          "name": "Heilende Aura",
          "price": "",
          "bonus": "+0",
@@ -427,10 +427,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Ergebnis x2 KR Radius VE(m) 1LK Heilung/KR",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Heilende Hand": {
+      "heilende-hand": {
          "name": "Heilende Hand",
          "price": "",
          "bonus": "+1",
@@ -438,10 +438,10 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Heilung",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Heilende Strahlen": {
+      "heilende-strahlen": {
          "name": "Heilende Strahlen",
          "price": "",
          "bonus": "+0",
@@ -449,10 +449,10 @@
          "distance": "VE x 2m",
          "cooldown": "2 KR",
          "compact": "Heilt VE/2 Personen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Heilendes Feld": {
+      "heilendes-feld": {
          "name": "Heilendes Feld",
          "price": "",
          "bonus": "+2",
@@ -460,10 +460,10 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Heilt alle Verbündeten im Radius",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Heilendes Licht": {
+      "heilendes-licht": {
          "name": "Heilendes Licht",
          "price": "",
          "bonus": "+2",
@@ -471,10 +471,10 @@
          "distance": "VE x 2m",
          "cooldown": "2 KR",
          "compact": "Heilung",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Heiliger Hammer": {
+      "heiliger-hammer": {
          "name": "Heiliger Hammer",
          "price": "",
          "bonus": "+0",
@@ -482,10 +482,10 @@
          "distance": "VE x2m",
          "cooldown": "100 KR",
          "compact": "Selbstständig kämpfender Hammer aus Licht",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Kettenblitz": {
+      "kettenblitz": {
          "name": "Kettenblitz",
          "price": "",
          "bonus": "+3",
@@ -493,10 +493,10 @@
          "distance": "VE x 5m",
          "cooldown": "5 KR",
          "compact": "Trifft VE zus. Gegner/Metallrüstung keine Abwehr",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Kleiner Terror": {
+      "kleiner-terror": {
          "name": "Kleiner Terror",
          "price": "",
          "bonus": "speziell",
@@ -504,10 +504,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "max. Anz. ZAW-Stufe/2 fliehen VE KR",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Kontrollieren": {
+      "kontrollieren": {
          "name": "Kontrollieren",
          "price": "",
          "bonus": "speziell",
@@ -515,10 +515,10 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Übernimmt Kontrolle über max (St.) Untote",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Körperexplosion": {
+      "körperexplosion": {
          "name": "Körperexplosion",
          "price": "",
          "bonus": "speziell",
@@ -526,10 +526,10 @@
          "distance": "VE x 1m",
          "cooldown": "W20 Tage",
          "compact": "Ergebnis x4 / Abwehr ohn PA",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Lauschen": {
+      "lauschen": {
          "name": "Lauschen",
          "price": "",
          "bonus": "-1/10m",
@@ -537,10 +537,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Hörzentrum bis zu VE x 5m verlegen",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Licht": {
+      "licht": {
          "name": "Licht",
          "price": "",
          "bonus": "+5",
@@ -548,10 +548,10 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Ergebnis in Minuten / Gegenstand leuchtet auf",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Lichtlanze": {
+      "lichtlanze": {
          "name": "Lichtlanze",
          "price": "",
          "bonus": "+5",
@@ -559,10 +559,10 @@
          "distance": "VE x 5m",
          "cooldown": "1 KR",
          "compact": "Schaden / WdD Gegnerabw. -2",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Lichtpfeil": {
+      "lichtpfeil": {
          "name": "Lichtpfeil",
          "price": "",
          "bonus": "+2",
@@ -570,10 +570,10 @@
          "distance": "VE x 5m",
          "cooldown": "1 KR",
          "compact": "Schaden / WdD Gegnerabw. -2",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Lichtsäule": {
+      "lichtsäule": {
          "name": "Lichtsäule",
          "price": "",
          "bonus": "+8",
@@ -581,10 +581,10 @@
          "distance": "VE x 10m",
          "cooldown": "1 KR",
          "compact": "Schaden / WdD Gegnerabw. -2",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Magie bannen": {
+      "magie-bannen": {
          "name": "Magie bannen",
          "price": "",
          "bonus": "speziell",
@@ -592,10 +592,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "DS GRW S. 62",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Magie entdecken": {
+      "magie-entdecken": {
          "name": "Magie entdecken",
          "price": "",
          "bonus": "+0",
@@ -603,10 +603,10 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Ergebnisin KR lang automatisch Magie entdecken",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Magie identifizieren": {
+      "magie-identifizieren": {
          "name": "Magie identifizieren",
          "price": "",
          "bonus": "+0",
@@ -614,10 +614,10 @@
          "distance": "Berühren",
          "cooldown": "1 KR",
          "compact": "Identifiziert magische Gegenstände",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Magische Barriere": {
+      "magische-barriere": {
          "name": "Magische Barriere",
          "price": "",
          "bonus": "-2",
@@ -625,10 +625,10 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Würfel max. VE/2 m³ / blockt sämtliche Magie",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Magische Rüstung": {
+      "magische-rüstung": {
          "name": "Magische Rüstung",
          "price": "",
          "bonus": "+0",
@@ -636,10 +636,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "ZAW erhält zusätzliche LK in Höhe des Ergebnis",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Magische Waffe": {
+      "magische-waffe": {
          "name": "Magische Waffe",
          "price": "",
          "bonus": "+0",
@@ -647,10 +647,10 @@
          "distance": "Berühren",
          "cooldown": "1 KR",
          "compact": "Waffe erhält WB+1 / gilt als magisch",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Magisches Schloss": {
+      "magisches-schloss": {
          "name": "Magisches Schloss",
          "price": "",
          "bonus": "+0",
@@ -658,10 +658,10 @@
          "distance": "Berühren",
          "cooldown": "5 KR",
          "compact": "Verschliesst ein(e) Gefäss/Tür (Schwierigkeit Erg.)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Manabrot": {
+      "manabrot": {
          "name": "Manabrot",
          "price": "",
          "bonus": "+0",
@@ -669,10 +669,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Erschafft max. Stufe/2 Brote (Mahlzeiten)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Nahrung zaubern": {
+      "nahrung-zaubern": {
          "name": "Nahrung zaubern",
          "price": "",
          "bonus": "+0",
@@ -680,10 +680,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Erschafft max. Stufe Zutaten einfacher Mahlzeiten",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Netz": {
+      "netz": {
          "name": "Netz",
          "price": "",
          "bonus": "speziell",
@@ -691,10 +691,10 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "Opfer halbieren Initiative, Laufen und Schlagen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Niesanfall": {
+      "niesanfall": {
          "name": "Niesanfall",
          "price": "",
          "bonus": "speziell",
@@ -702,10 +702,10 @@
          "distance": "VE x 2m",
          "cooldown": "0 KR",
          "compact": "Opfer halbiert für 1 KR den Laufen-Wert",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Öffnen": {
+      "öffnen": {
          "name": "Öffnen",
          "price": "",
          "bonus": "-SW",
@@ -713,10 +713,10 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Öffnet ein Schloss",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Putzteufel": {
+      "putzteufel": {
          "name": "Putzteufel",
          "price": "",
          "bonus": "+0",
@@ -724,10 +724,10 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Erschafft einen magischen Diener der für ihn putzt",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Reinigen": {
+      "reinigen": {
          "name": "Reinigen",
          "price": "",
          "bonus": "+0",
@@ -735,10 +735,10 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Reinigt eine/n schmutzige/n Person/Gegenstand",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Rost": {
+      "rost": {
          "name": "Rost",
          "price": "",
          "bonus": "-WB/PA",
@@ -746,10 +746,10 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Lässt nichtmag. Waffe/Rüstung zu Staub zerfallen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schatten": {
+      "schatten": {
          "name": "Schatten",
          "price": "",
          "bonus": "speziell",
@@ -757,10 +757,10 @@
          "distance": "VE x 5m",
          "cooldown": "5 KR",
          "compact": "Schatten umhüllen das Ziel / -8 auf alle Handlungen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schatten erwecken": {
+      "schatten-erwecken": {
          "name": "Schatten erwecken",
          "price": "",
          "bonus": "+0",
@@ -768,10 +768,10 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Erweckt tote Seelen / müssen kontrolliert werden",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schattenklinge": {
+      "schattenklinge": {
          "name": "Schattenklinge",
          "price": "",
          "bonus": "+0",
@@ -779,10 +779,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Waffenverzaub. (DdD) WB+1/gegn. Abwehr sinkt",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schattenlanze": {
+      "schattenlanze": {
          "name": "Schattenlanze",
          "price": "",
          "bonus": "+5",
@@ -790,10 +790,10 @@
          "distance": "VE x 10m",
          "cooldown": "0KR",
          "compact": "Schaden/DdL erhalten -2 auf Abwehr",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schattenpfeil": {
+      "schattenpfeil": {
          "name": "Schattenpfeil",
          "price": "",
          "bonus": "+2",
@@ -801,10 +801,10 @@
          "distance": "VE x 10m",
          "cooldown": "0KR",
          "compact": "Schaden/DdL erhalten -2 auf Abwehr",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schattensäule": {
+      "schattensäule": {
          "name": "Schattensäule",
          "price": "",
          "bonus": "+8",
@@ -812,10 +812,10 @@
          "distance": "VE x 10m",
          "cooldown": "0KR",
          "compact": "Schaden/+Vergeltung/DdL erhalten -2 auf Abwehr",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schleudern": {
+      "schleudern": {
          "name": "Schleudern",
          "price": "",
          "bonus": "speziell",
@@ -823,10 +823,10 @@
          "distance": "VE / 2m",
          "cooldown": "10 KR",
          "compact": "Schleudert das Ziel (Probe/3)m fort/Sturzschaden",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Schutzfeld": {
+      "schutzfeld": {
          "name": "Schutzfeld",
          "price": "",
          "bonus": "+0",
@@ -834,10 +834,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Radius VE(m) / nichtmag. Geschosse prallen ab",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schutzkuppel": {
+      "schutzkuppel": {
          "name": "Schutzkuppel",
          "price": "",
          "bonus": "+0",
@@ -845,10 +845,10 @@
          "distance": "Selbst",
          "cooldown": "W20 Tage",
          "compact": "Radius VE(m) / vollkommen unpassierbar",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schutzschild": {
+      "schutzschild": {
          "name": "Schutzschild",
          "price": "",
          "bonus": "+0",
@@ -856,10 +856,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Ziel erhält Probenergebnis als Bonus auf Abwehr",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schutzschild dehnen": {
+      "schutzschild-dehnen": {
          "name": "Schutzschild dehnen",
          "price": "",
          "bonus": "+0",
@@ -867,10 +867,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Verdoppelt die Dauer des Schutzschildes",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schutzschild stärken": {
+      "schutzschild-stärken": {
          "name": "Schutzschild stärken",
          "price": "",
          "bonus": "+0",
@@ -878,10 +878,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Verdoppelt den Abwehrbonus des Schutzschildes",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schweben": {
+      "schweben": {
          "name": "Schweben",
          "price": "",
          "bonus": "+0",
@@ -889,10 +889,10 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Ziel kann schweben anstatt zu laufen (kein Rennen)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Schweig": {
+      "schweig": {
          "name": "Schweig",
          "price": "",
          "bonus": "speziell",
@@ -900,10 +900,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Ziel verstummt für die Dauer des Zaubers",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Segen": {
+      "segen": {
          "name": "Segen",
          "price": "",
          "bonus": "+0",
@@ -911,10 +911,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "Zauberer und VE x2 Kameraden +1 auf alles",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Skelette erwecken": {
+      "skelette-erwecken": {
          "name": "Skelette erwecken",
          "price": "",
          "bonus": "+0",
@@ -922,10 +922,10 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Erweckt Skelette / müssen kontrolliert werden",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Spionage": {
+      "spionage": {
          "name": "Spionage",
          "price": "",
          "bonus": "+0",
@@ -933,10 +933,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Hören/Sehen werden vom Körper getrennt",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Springen": {
+      "springen": {
          "name": "Springen",
          "price": "",
          "bonus": "+0",
@@ -944,10 +944,10 @@
          "distance": "Selbst",
          "cooldown": "10 KR",
          "compact": "Springt (Probenergebnis/2)m ",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Spurt": {
+      "spurt": {
          "name": "Spurt",
          "price": "",
          "bonus": "-2",
@@ -955,10 +955,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Laufen-Wert wird verdoppelt",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Steinwand": {
+      "steinwand": {
          "name": "Steinwand",
          "price": "",
          "bonus": "-2",
@@ -966,10 +966,10 @@
          "distance": "VE x 2m",
          "cooldown": "24h",
          "compact": "Erschafft eine dauerhafte Steinwand ",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Stolpern": {
+      "stolpern": {
          "name": "Stolpern",
          "price": "",
          "bonus": "speziell",
@@ -977,10 +977,10 @@
          "distance": "VE x 5m",
          "cooldown": "100 KR",
          "compact": "Ziel stolpert / AGI+GE um nichts fallen zu lassen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Stossgebet": {
+      "stossgebet": {
          "name": "Stossgebet",
          "price": "",
          "bonus": "speziell",
@@ -988,10 +988,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Druckwelle wirft Gegner im Radius (Stufex2)m um",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Tanz": {
+      "tanz": {
          "name": "Tanz",
          "price": "",
          "bonus": "speziell",
@@ -999,10 +999,10 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "Ziel kann nur tanzen (Laufen max. 1m/KR)",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Tarnender Nebel": {
+      "tarnender-nebel": {
          "name": "Tarnender Nebel",
          "price": "",
          "bonus": "-2",
@@ -1010,10 +1010,10 @@
          "distance": "VE x 5m",
          "cooldown": "10 KR",
          "compact": "Nebelwolke Radius von (VE)m -8 auf Sichtproben",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Telekinese": {
+      "telekinese": {
          "name": "Telekinese",
          "price": "",
          "bonus": "speziell",
@@ -1021,10 +1021,10 @@
          "distance": "VE x 5m",
          "cooldown": "0 KR",
          "compact": "Unbelebten Gegenstand schweben lassen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Teleport": {
+      "teleport": {
          "name": "Teleport",
          "price": "",
          "bonus": "-1/Begl.",
@@ -1032,10 +1032,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Teleportiert Zauberer+(VE) Begleiter",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Terror": {
+      "terror": {
          "name": "Terror",
          "price": "",
          "bonus": "speziell",
@@ -1043,10 +1043,10 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Schlägt (max. Stufe) in die Flucht",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Tierbeherrschung": {
+      "tierbeherrschung": {
          "name": "Tierbeherrschung",
          "price": "",
          "bonus": "-LK/2",
@@ -1054,10 +1054,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Tier wird willenloser Sklave des Zauberers",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Tiere besänftigen": {
+      "tiere-besänftigen": {
          "name": "Tiere besänftigen",
          "price": "",
          "bonus": "-LK/5",
@@ -1065,10 +1065,10 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Besänftigt aggressive Tiere (nur nichtmagische)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Totengespräch": {
+      "totengespräch": {
          "name": "Totengespräch",
          "price": "",
          "bonus": "+0",
@@ -1076,10 +1076,10 @@
          "distance": "Berühren",
          "cooldown": "W20 Tage",
          "compact": "Geist muss (VE) Ja-Nein-Fragen beantworten",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Trugbild": {
+      "trugbild": {
          "name": "Trugbild",
          "price": "",
          "bonus": "-2",
@@ -1087,10 +1087,10 @@
          "distance": "VE x 1m",
          "cooldown": "100 KR",
          "compact": "Unbewegliche Illusion (max VE/2 qm)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Unsichtbares sehen": {
+      "unsichtbares-sehen": {
          "name": "Unsichtbares sehen",
          "price": "",
          "bonus": "+0",
@@ -1098,10 +1098,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Ziel kann unsichtbare Objekte/Wesen sehen",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Unsichtbarkeit": {
+      "unsichtbarkeit": {
          "name": "Unsichtbarkeit",
          "price": "",
          "bonus": "+0",
@@ -1109,10 +1109,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Macht das Ziel samt seiner Ausrüstung unsichtbar",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verborgenes sehen": {
+      "verborgenes-sehen": {
          "name": "Verborgenes sehen",
          "price": "",
          "bonus": "+0",
@@ -1120,10 +1120,10 @@
          "distance": "VE x 2m (R.)",
          "cooldown": "24h",
          "compact": "Zauberer kann verborgene Objekte entdecken",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verdampfen": {
+      "verdampfen": {
          "name": "Verdampfen",
          "price": "",
          "bonus": "speziell",
@@ -1131,10 +1131,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Schaden / Probenergebnis x3 / keine PA",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Vergrößern": {
+      "vergrößern": {
          "name": "Vergrößern",
          "price": "",
          "bonus": "-4",
@@ -1142,10 +1142,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "GROSS / KÖR,ST,HÄ verdoppeln",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verkleinern": {
+      "verkleinern": {
          "name": "Verkleinern",
          "price": "",
          "bonus": "-4",
@@ -1153,10 +1153,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "WINZIG / KÖR,ST,HÄ halbieren Laufen/10",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verlangsamen": {
+      "verlangsamen": {
          "name": "Verlangsamen",
          "price": "",
          "bonus": "speziell",
@@ -1164,10 +1164,10 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "10 KR",
          "compact": "Max. Stufe/2 Zielpersonen / Laufen halbieren",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Versetzen": {
+      "versetzen": {
          "name": "Versetzen",
          "price": "",
          "bonus": "+0",
@@ -1175,10 +1175,10 @@
          "distance": "Berühren",
          "cooldown": "10 KR",
          "compact": "Ziel wird Probe/2 m in Sichtlinie teleportiert",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Versetzte Stimme": {
+      "versetzte stimme": {
          "name": "Versetzte Stimme",
          "price": "",
          "bonus": "-1/10m",
@@ -1186,10 +1186,10 @@
          "distance": "Selbst",
          "cooldown": "100 KR",
          "compact": "Stimme wird an einen Punkt in Sichtlinie versetzt",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verteidigung": {
+      "verteidigung": {
          "name": "Verteidigung",
          "price": "",
          "bonus": "+0",
@@ -1197,10 +1197,10 @@
          "distance": "VE x 2m",
          "cooldown": "0 KR",
          "compact": "Ziel erhält Probenergebnis als Bonus auf Abwehr",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Vertreiben": {
+      "vertreiben": {
          "name": "Vertreiben",
          "price": "",
          "bonus": "speziell",
@@ -1208,10 +1208,10 @@
          "distance": "VE x 2m (R.)",
          "cooldown": "100 KR",
          "compact": "Vertreibt max. Stufe/2 Untote (max. Probex5m)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verwandlung": {
+      "verwandlung": {
          "name": "Verwandlung",
          "price": "",
          "bonus": "-2",
@@ -1219,10 +1219,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "Nimmt das Aussehen einer anderen Person an",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Verwirren": {
+      "verwirren": {
          "name": "Verwirren",
          "price": "",
          "bonus": "speziell",
@@ -1230,10 +1230,10 @@
          "distance": "VE x 2m (R.)",
          "cooldown": "10 KR",
          "compact": "Verwirrt das Ziel (s. Tabelle S. 74)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Volksgestalt": {
+      "volksgestalt": {
          "name": "Volksgestalt",
          "price": "",
          "bonus": "-4",
@@ -1241,10 +1241,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Max. VE Freiwillige werden äußerlich verwandelt",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wächter": {
+      "wächter": {
          "name": "Wächter",
          "price": "",
          "bonus": "+0",
@@ -1252,10 +1252,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Mag.Wächter alarmiert bei Annäherung auf VEx2m",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Waffe des Lichts": {
+      "waffe-des-lichts": {
          "name": "Waffe des Lichts",
          "price": "",
          "bonus": "+0",
@@ -1263,10 +1263,10 @@
          "distance": "VE x 2m",
          "cooldown": "100 KR",
          "compact": "Waffenverzaub. (DdL) WB+1/eigene Abwehr steigt",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Wahnsinn": {
+      "wahnsinn": {
          "name": "Wahnsinn",
          "price": "",
          "bonus": "speziell",
@@ -1274,10 +1274,10 @@
          "distance": "Berühren",
          "cooldown": "W20 Tage",
          "compact": "Ziel wird komplett Wahnsinnig",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wandöffnung": {
+      "wandöffnung": {
          "name": "Wandöffnung",
          "price": "",
          "bonus": "+0",
@@ -1285,10 +1285,10 @@
          "distance": "Berühren",
          "cooldown": "100 KR",
          "compact": "Öffnet ein Loch in max VEx10cm dicken Steinwand",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wasser teilen": {
+      "wasser-teilen": {
          "name": "Wasser teilen",
          "price": "",
          "bonus": "+0",
@@ -1296,10 +1296,10 @@
          "distance": "Berühren",
          "cooldown": "W20 Tage",
          "compact": "1m breite Schneide in Gewässern schlagen",
-         "effect": "",
+         "details": "",
          "type": "targetedspell"
       },
-      "Wasser weihen": {
+      "wasser-weihen": {
          "name": "Wasser weihen",
          "price": "",
          "bonus": "+0",
@@ -1307,10 +1307,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Zauberer stellt Probe/2 Einheiten Weihwasser her",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wasserwandeln": {
+      "wasserwandeln": {
          "name": "Wasserwandeln",
          "price": "",
          "bonus": "+0",
@@ -1318,10 +1318,10 @@
          "distance": "Berühren",
          "cooldown": "0 KR",
          "compact": "Kann über Wasser laufen (Probenergebnis in KR)",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wechselzauber": {
+      "wechselzauber": {
          "name": "Wechselzauber",
          "price": "",
          "bonus": "+0",
@@ -1329,10 +1329,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "1x aktionsfrei zu bestimmten Zauber wechseln",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wiederbelebung": {
+      "wiederbelebung": {
          "name": "Wiederbelebung",
          "price": "",
          "bonus": "+0",
@@ -1340,10 +1340,10 @@
          "distance": "Berühren",
          "cooldown": "24h",
          "compact": "Wiederbelebung einer gestorbenen Person",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wolke der Reue": {
+      "wolke-der-reue": {
          "name": "Wolke der Reue",
          "price": "",
          "bonus": "-2",
@@ -1351,10 +1351,10 @@
          "distance": "VE x 5m",
          "cooldown": "100 KR",
          "compact": "-1 auf alle Proben wenn von der Wolke umgeben",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Wolke des Todes": {
+      "wolke-des-todes": {
          "name": "Wolke des Todes",
          "price": "",
          "bonus": "-4",
@@ -1362,10 +1362,10 @@
          "distance": "VE x 5m",
          "cooldown": "100 KR",
          "compact": "-2 auf Angriffe/1+DdD nicht abwehrbarer Schaden",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Zauberabklang": {
+      "zauberabklang": {
          "name": "Zauberabklang",
          "price": "",
          "bonus": "speziell",
@@ -1373,10 +1373,10 @@
          "distance": "Selbst",
          "cooldown": "24h",
          "compact": "Setzt die Abklingzeit eines Zauber zurück auf",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Zauberleiter": {
+      "zauberleiter": {
          "name": "Zauberleiter",
          "price": "",
          "bonus": "+0",
@@ -1384,10 +1384,10 @@
          "distance": "VE x 1m",
          "cooldown": "24h",
          "compact": "Erschafft eine magische Leiter (VE x Stufe)m",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Zaubertrick": {
+      "zaubertrick": {
          "name": "Zaubertrick",
          "price": "",
          "bonus": "+0",
@@ -1395,10 +1395,10 @@
          "distance": "VE x 2m",
          "cooldown": "10 KR",
          "compact": "Erzeugt kleine unschädliche Illusionen",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Zeitstop": {
+      "zeitstop": {
          "name": "Zeitstop",
          "price": "",
          "bonus": "-5",
@@ -1406,10 +1406,10 @@
          "distance": "Selbst",
          "cooldown": "W20 Tage",
          "compact": "Hält für Probenergebnis KR die Zeit an",
-         "effect": "",
+         "details": "",
          "type": "spell"
       },
-      "Zombies erwecken": {
+      "zombies-erwecken": {
          "name": "Zombies erwecken",
          "price": "",
          "bonus": "+0",
@@ -1417,7 +1417,7 @@
          "distance": "VE x 5m (R.)",
          "cooldown": "24h",
          "compact": "Erweckt Leichen / müssen kontrolliert werden",
-         "effect": "",
+         "details": "",
          "type": "spell"
       }
    }
