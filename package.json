@@ -34,9 +34,9 @@
         "lodash": "4.6.1"
     },
     "devDependencies": {
-        "grunt": "~0.4",
-        "grunt-jsonlint": "~1.0",
-        "grunt-minjson": "latest"
+        "grunt": "0.4.5",
+        "grunt-jsonlint": "1.0.7",
+        "grunt-minjson": "0.4.0"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"

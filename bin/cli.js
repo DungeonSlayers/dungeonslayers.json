@@ -8,11 +8,7 @@ var ds = require('./ds-data');
 
 var program = require('commander');
 
-var dir = '../docs';
 
-if (!fs.existsSync(dir)){
-    fs.mkdirSync(dir);
-}
 
 
 program
@@ -35,7 +31,12 @@ program.sortby = program.order || 'name';
 program.stufe = program.stufe || 25;
 program.language = program.language || 'deu';
 
+// output
+var dir = '../docs';
 var file  = dir + '/' + program.klasse + '.md';
+if (!fs.existsSync(dir)){
+    fs.mkdirSync(dir);
+}
 
 /**
  * Application
@@ -53,8 +54,6 @@ function write () {
       if (err) {throw err;}
     });
 }
-
-
 
 // Header
 add('# ' + program.klasse);
@@ -76,14 +75,12 @@ add();
 
 // talent details
 _.each(talents, function (data) {
-
   // level headings
   if (current !== data.prequisite && program.sortby === 'level') {
     add('### Stufe ' + data.prequisite)
     add()
     current = data.prequisite;
   }
-
   add('__' + data.name + '__');
   add()
   add('- Ränge: ' + data.max);
@@ -92,12 +89,9 @@ _.each(talents, function (data) {
   add('```');
   add(data.details);
   add('```');
-
   //add('_' + data.details + '_');
-
   add()
 });
-
 
 // spell
 var spells = ds.getSpells(program.klasse, program.stufe, { sortby: program.sortby });
@@ -105,7 +99,7 @@ if (spells.length) {
   add('## Spells ');
   add();
 
-  // spells table
+  // table
   add('| Name | Distanz | Abklingzeit | Effekt |');
   add('|------|-------|-------|--------|');
   _.each(spells, function (data) {
@@ -113,7 +107,7 @@ if (spells.length) {
   });
   add();
 
-
+  // details
   _.each(spells, function (data) {
     add('__' + data.name + '__');
     add()
@@ -128,8 +122,10 @@ if (spells.length) {
   });
 }
 
+
+// comments
 add('<!-- ' + program.klasse + ' ' + program.stufe + ' ' + program.language + ' -->')
 add('<!-- talents: ' + talents.length + ' -->')
-add('<!-- talents: ' + spells.length + ' -->')
+add('<!-- spells: ' + spells.length + ' -->')
 
 write();

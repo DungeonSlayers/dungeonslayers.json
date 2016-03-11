@@ -1365,7 +1365,7 @@
          "details": "",
          "type": "spell"
       },
-      "zauberabklang": {
+      "zauberklang": {
          "name": "Zauberabklang",
          "price": "",
          "bonus": "speziell",
