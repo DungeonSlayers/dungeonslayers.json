@@ -669,6 +669,32 @@
                 "prequisite": 8,
                 "max": 3
             }
+        },
+        "spells": {
+            "duftnote": { "prequisite": 1 },
+            "feuerstrahl": { "prequisite": 1 },
+            "licht": { "prequisite": 1 },
+            "magie-entdecken": { "prequisite": 1 },
+            "magie-identifizieren": { "prequisite": 1 },
+            "magische-waffe": { "prequisite": 1 },
+            "magisches-schloss": { "prequisite": 1 },
+            "öffnen": { "prequisite": 1 },
+            "zaubertrick": { "prequisite": 1 },
+            "giftschutz": { "prequisite": 2 },
+            "lauschen": { "prequisite": 2 },
+            "springen": { "prequisite": 2 },
+            "versetzte-stimme": { "prequisite": 2 },
+            "balancieren": { "prequisite": 3 },
+            "durchsicht": { "prequisite": 3 },
+            "federgleich": { "prequisite": 3 },
+            "niesanfall": { "prequisite": 3 },
+            "flackern": { "prequisite": 4 },
+            "flammenklinge": { "prequisite": 4 },
+            "frostwaffe": { "prequisite": 4 },
+            "tarnender-nebel": { "prequisite": 4 },
+            "stolpern": { "prequisite": 4 },
+            "verteidigung": { "prequisite": 4 },
+            "zauberleiter": { "prequisite": 4 }
         }
     },
     "sorcerer": {
