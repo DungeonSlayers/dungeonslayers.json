@@ -7,8 +7,8 @@ module.exports = function (grunt) {
     // Initializes the Grunt tasks with the following settings
     grunt.initConfig({
         pkg: pkg,
-        jsonlint: require('./tasks/jsonlint.js'),
-        minjson: require('./tasks/minjson.js')
+        jsonlint: require('./grunt/jsonlint.js'),
+        minjson: require('./grunt/minjson.js')
     });
 
     // Load the plugins that provide the tasks we specified in package.json.
