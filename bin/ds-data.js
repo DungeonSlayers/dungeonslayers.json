@@ -1,12 +1,14 @@
 
 var jsonfile = require('jsonfile');
 var _ = require('lodash');
+var path = require('path');
 
-var classes = jsonfile.readFileSync('../data/deu/classes.json');
-var talentswrapper = jsonfile.readFileSync('../data/deu/talents.json');
-var spellswrapper = jsonfile.readFileSync('../data/deu/spells.json');
-var talents = talentswrapper.talents;
-var spells = spellswrapper.spells;
+var file = path.join(__dirname, '..', 'data-min/dungeonslayers-deu.min.json');
+var list = jsonfile.readFileSync(file);
+var data = _.extend.apply(this, list);
+var classes = data.classes;
+var talents = data.talents;
+var spells = data.spells;
 
 
 function getTalentHash(cl, level) {

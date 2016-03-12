@@ -1,5 +1,6 @@
 {
-    "fighter": {
+    "classes": {
+        "fighter": {
         "name": "Krieger",
         "classbonus": [
             "strength",
@@ -1300,6 +1301,7 @@
             "fliegen": { "prequisite": 20 },
             "teleport": { "prequisite": 20 },
             "unsichtbarkeit": { "prequisite": 20 }
+        }
         }
     }
 }
