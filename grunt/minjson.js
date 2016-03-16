@@ -10,15 +10,7 @@ module.exports = {
             'data-min/deu/talents.min.json': 'data/deu/talents.json',
             'data-min/deu/spells.min.json': 'data/deu/spells.json',
 
-            'data-min/eng/armor.min.json': 'data/eng/armor.json',
-            'data-min/eng/attributes.min.json': 'data/eng/attributes.json',
-            'data-min/eng/combatvalues.min.json': 'data/eng/combatvalues.json',
-            'data-min/eng/races.min.json': 'data/eng/races.json',
-            'data-min/eng/weapons.min.json': 'data/eng/weapons.json',
-            'data-min/eng/classes.min.json': 'data/eng/classes.json',
-
-            'data-min/dungeonslayers-deu.min.json': ['data/deu/**/*.json'],
-            'data-min/dungeonslayers-eng.min.json': ['data/eng/**/*.json']
+            'data-min/dungeonslayers-deu.min.json': ['data/deu/**/*.json']
         }
     }
 };
