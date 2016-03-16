@@ -2,6 +2,7 @@
     "classes": {
         "fighter": {
         "name": "Krieger",
+        "short": "KRI",
         "classbonus": [
             "strength",
             "constitution"
@@ -216,6 +217,7 @@
     },
     "scout": {
         "name": "Späher",
+        "short": "SPÄ",
         "classbonus": [
             "agility",
             "dexterity"
@@ -430,6 +432,7 @@
     },
     "wizard": {
         "name": "Zauberer",
+        "short": "ZAU",
         "classbonus": [
             "intellect",
             "aura"
@@ -700,6 +703,7 @@
     },
     "sorcerer": {
         "name": "Schwarzmagier",
+        "short": "SCH",
         "classbonus": [
             "intellect",
             "aura"
@@ -954,6 +958,7 @@
     },
     "healer": {
         "name": "Heiler",
+        "short": "HEI",
         "classbonus": [
             "intellect",
             "aura"
