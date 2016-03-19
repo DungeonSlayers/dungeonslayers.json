@@ -7,6 +7,7 @@ module.exports = {
             'data-min/deu/races.min.json': 'data/deu/races.json',
             'data-min/deu/weapons.min.json': 'data/deu/weapons.json',
             'data-min/deu/classes.min.json': 'data/deu/classes.json',
+            'data-min/deu/heroclasses.min.json': 'data/deu/heroclasses.json',
             'data-min/deu/talents.min.json': 'data/deu/talents.json',
             'data-min/deu/spells.min.json': 'data/deu/spells.json',
 

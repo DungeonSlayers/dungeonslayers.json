@@ -412,7 +412,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "verherer": {
+            "verheerer": {
                 "prequisite": 8,
                 "max": 3
             },
@@ -476,7 +476,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "fieser-schuß": {
+            "zaubermacht": {
                 "prequisite": 4,
                 "max": 3
             },
@@ -726,7 +726,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "verherer": {
+            "verheerer": {
                 "prequisite": 8,
                 "max": 3
             },
@@ -790,7 +790,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "fieser-schuß": {
+            "zaubermacht": {
                 "prequisite": 4,
                 "max": 3
             },
@@ -1047,7 +1047,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "verherer": {
+            "verheerer": {
                 "prequisite": 8,
                 "max": 3
             },
@@ -1111,7 +1111,7 @@
                 "prequisite": 8,
                 "max": 3
             },
-            "fieser-schuß": {
+            "zaubermacht": {
                 "prequisite": 4,
                 "max": 3
             },

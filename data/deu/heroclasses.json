@@ -1,0 +1,120 @@
+{
+    "heroclasses": {
+        "berserker": {
+            "name": "Berserker",
+            "base": "fighter",
+            "talents": {
+                "brutaler-hieb": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "einstecker": {
+                    "prequisite": 10,
+                    "max": 10
+                },
+                "kämpfer": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "raserei": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "schlachtruf": {
+                    "prequisite": 10,
+                    "max": 3
+                },
+                "panzerung-zerschmettern": {
+                    "prequisite": 12,
+                    "max": 5
+                },
+                "schnelle-reflexe": {
+                    "prequisite": 12,
+                    "max": 5
+                },
+                "rundumschlag": {
+                    "prequisite": 14,
+                    "max": 3
+                },
+                "verletzen": {
+                    "prequisite": 14,
+                    "max": 5
+                }
+            }
+        },
+        "paladin": {
+            "name": "Paladin",
+            "base": "fighter",
+            "talents": {
+                "blocker": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "diener-des-lichts": {
+                    "prequisite": 10,
+                    "max": 10
+                },
+                "fürsorger": {
+                    "prequisite": 10,
+                    "max": 3
+                },
+                "reiten": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "rüstzauberer": {
+                    "prequisite": 10,
+                    "max": 3
+                },
+                "umdenken": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "vertrauter": {
+                    "prequisite": 10,
+                    "max": 1
+                },
+                "wechsler": {
+                    "prequisite": 10,
+                    "max": 5
+                },
+                "dämon-zerschmettern": {
+                    "prequisite": 12,
+                    "max": 3
+                },
+                "kämpfer": {
+                    "prequisite": 12,
+                    "max": 5
+                },
+                "schlachtruf": {
+                    "prequisite": 12,
+                    "max": 3
+                },
+                "untote-zerschmettern": {
+                    "prequisite": 12,
+                    "max": 3
+                },
+                "vertrautenband": {
+                    "prequisite": 12,
+                    "max": 5
+                },
+                "zaubermacht": {
+                    "prequisite": 12,
+                    "max": 3
+                },
+                "verheerer": {
+                    "prequisite": 14,
+                    "max": 3
+                },
+                "tod-entrinnen": {
+                    "prequisite": 16,
+                    "max": 3
+                },
+                "vergeltung": {
+                    "prequisite": 16,
+                    "max": 3
+                }
+            }
+        }
+    }
+}

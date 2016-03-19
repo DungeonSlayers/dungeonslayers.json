@@ -18,3 +18,10 @@ _.each(data.classes, function(cl, classid) {
         console.error(classid + 'spell missing: ' + id)
     });
 });
+
+_.each(data.heroclasses, function(cl, classid) {
+    _.each(cl.talents, function(talent, id) {
+        if (data.talents[id]) return;
+        console.error(classid + ' talent missing: ' + id)
+    });
+});
