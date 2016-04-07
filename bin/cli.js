@@ -13,10 +13,10 @@ var program = require('commander');
 
 program
   .version('0.0.1')
-  .option('-k, --klasse [type]', 'Add the specified type of cheese [marble]', /^(fighter|scout|healer|wizard|sorcerer)$/i)
-  .option('-s, --stufe [number]', 'Add the specified type of cheese [marble]', /^(\d+)$/i)
-  .option('-l, --language [number]', 'Add the specified type of cheese [marble]', /^(deu|eng)$/i)
-  .option('-o, --order [type]', 'Add the specified type of cheese [marble]', /^(name|level)$/i)
+  .option('-k, --klasse [type]', 'Add the specified type of cheese [fighter|scout|healer|wizard|sorcerer]', /^(fighter|scout|healer|wizard|sorcerer)$/i)
+  .option('-s, --stufe [number]', 'Add the specified type of cheese [1-20]', /^(\d+)$/i)
+  .option('-l, --language [number]', 'Add the specified type of cheese [deu|eng]', /^(deu|eng)$/i)
+  .option('-o, --order [type]', 'Add the specified type of cheese [name|level]', /^(name|level)$/i)
   .parse(process.argv);
 
 /**
@@ -86,10 +86,7 @@ _.each(talents, function (data) {
   add('- Ränge: ' + data.max);
   add('- Übersicht: '+ data.compact);
   add()
-  add('```');
-  add(data.details);
-  add('```');
-  //add('_' + data.details + '_');
+  add('*' + data.details + '*');
   add()
 });
 
@@ -109,15 +106,24 @@ if (spells.length) {
 
   // details
   _.each(spells, function (data) {
+  // level headings
+  if (current !== data.prequisite && program.sortby === 'level') {
+    add('### Stufe ' + data.prequisite)
+    add()
+    current = data.prequisite;
+  }
+
     add('__' + data.name + '__');
     add()
-    add('- Abklingzeit: ' + data.cooldown);
+    add('- Art: ' + data.type);
+    add('- Zauberbonus: ' + data.bonus);
+    add('- Effekt: '+ data.compact);
     add('- Dauer: ' + data.duration);
-    add('- Übersicht: '+ data.compact);
+    add('- Reichweite: ' + data.distance);
+    add('- Abklingzeit: ' + data.cooldown);
+    if (data.category) add('- Kategorie: ' + data.category);
     add()
-    add('```');
-    add(data.details);
-    add('```');
+    add('*' + data.details + '*');
     add()
   });
 }
