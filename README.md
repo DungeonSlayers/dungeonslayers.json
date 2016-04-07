@@ -7,6 +7,7 @@ dungeonslayers.json
 - [x] add spell details
 - [x] add spell prices
 - [x] add spells for each class
+- [ ] add spells categories (Heilzauber, Schutzzauber, Elementar, Lichtzauber, Schattenzauber, Feuerzauber, Elementarzauber, Geistebeeinflussend, Nekromantie)
 - [ ] add hero classes
 - [ ] https://github.com/assemble/grunt-convert
 
