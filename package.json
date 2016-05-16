@@ -1,47 +1,52 @@
 {
-    "name": "dungeonslayers-json",
-    "description": "dungeonslayers pnp rpg core data as json",
-    "version": "0.0.1",
-    "homepage": "https://github.com/DungeonSlayers/dungeonslayers.json",
-    "author": "Frank Paczynski (https://github.com/DungeonSlayers)",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DungeonSlayers/dungeonslayers.json.git"
-    },
-    "bugs": {
-        "url": "https://github.com/DungeonSlayers/node-uberspace/issues"
-    },
-    "licenses": [{
-        "type": "Unlicense",
-        "url": "http://choosealicense.com/licenses/unlicense/"
-    }],
-    "keywords": [
-        "cli",
-        "data",
-        "command line"
-    ],
-    "preferGlobal": true,
-    "bin": {
-        "uber": "./bin/cli.js"
-    },
-    "main": "./bin/cli.js",
-    "engines": {
-        "node": ">=0.8"
-    },
-    "dependencies": {
-        "commander": "2.9.0",
-        "jsonfile": "2.2.3",
-        "lodash": "4.6.1"
-    },
-    "devDependencies": {
-        "grunt": "0.4.5",
-        "grunt-jsonlint": "1.0.7",
-        "grunt-minjson": "0.4.0"
-    },
-    "scripts": {
-        "pretest": "grunt",
-        "test": "node test/ids.js",
-        "prepublish": "npm test"
-    },
-    "license": "UNLICENSE"
+  "name": "dungeonslayers-json",
+  "description": "dungeonslayers pnp rpg core data as json",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DungeonSlayers/dungeonslayers.json",
+  "author": "Frank Paczynski (https://github.com/DungeonSlayers)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DungeonSlayers/dungeonslayers.json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DungeonSlayers/node-uberspace/issues"
+  },
+  "licenses": [
+    {
+      "type": "Unlicense",
+      "url": "http://choosealicense.com/licenses/unlicense/"
+    }
+  ],
+  "keywords": [
+    "cli",
+    "data",
+    "command line"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "uber": "./bin/dsjson-cli.js"
+  },
+  "main": "./bin/dsjson-cli.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "commander": "2.9.0",
+    "jsonfile": "2.2.3",
+    "lodash": "4.6.1",
+    "roman-numerals": "0.3.2"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-jsonlint": "1.0.7",
+    "grunt-minjson": "0.4.0"
+  },
+  "scripts": {
+    "start": "node scripts/gen.js",
+    "help": "node ./bin/dsjson-cli.js --help",
+    "pretest": "grunt",
+    "test": "node scripts/ids.js",
+    "prepublish": "npm test"
+  },
+  "license": "Unlicense"
 }

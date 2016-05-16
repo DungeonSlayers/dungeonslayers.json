@@ -25,3 +25,23 @@ _.each(data.heroclasses, function(cl, classid) {
         console.error(classid + ' talent missing: ' + id)
     });
 });
+
+_.each(data.talentsets, function(set, setid) {
+    _.each(set, function(talent, id) {
+        id = id.split(':')[0];
+        if (data.talents[id]) return;
+        console.error(setid + ' talent missing: ' + id)
+    });
+});
+
+_.each(data.cultures, function(culture, cultureid) {
+    _.each(culture.sets, function(id) {
+        if (data.talentsets[id]) return;
+        console.error(cultureid + ' set missing: ' + id)
+    });
+    _.each(culture.singles, function(talent, id) {
+        id = id.split(':')[0];
+        if (data.talents[id]) return;
+        console.error(cultureid + ' talent missing: ' + id)
+    });
+});

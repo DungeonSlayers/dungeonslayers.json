@@ -1,0 +1,602 @@
+{
+    "talentsets": {
+        "akademiker": {
+            "alchemie": {
+                "points": 1,
+                "max": 1
+            },
+            "bildung": {
+                "points": 1,
+                "max": 5
+            },
+            "instrument": {
+                "points": 1,
+                "max": 3
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 5
+            },
+            "wissensgebiet:dichtkunst": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:geometrie": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:geschichte": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:historisches-ereignis": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:kräuterkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:mathematik": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:naturkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:sagen-und-legenden": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:stein-und-metallkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:sternenkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:theoretische-magie": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:tierkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:verwaltung": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:wappenkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:wetterkunde": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "arkan": {
+            "alchemie": {
+                "points": 1,
+                "max": 1
+            },
+            "bildung": {
+                "points": 1,
+                "max": 5
+            },
+            "runenkunde": {
+                "points": 1,
+                "max": 1
+            },
+            "rüstzauberer": {
+                "points": 2,
+                "max": 2
+            },
+            "wechsler": {
+                "points": 2,
+                "max": 3
+            },
+            "wissensgebiet:ebenenwissen": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:magische-wesen": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:theoretische-magie": {
+                "points": 1,
+                "max": 3
+            },
+            "zaubermacht": {
+                "points": 2,
+                "max": 1
+            }
+        },
+        "athleten": {
+            "akrobat": {
+                "points": 1,
+                "max": 2
+            },
+            "ausweichen": {
+                "points": 2,
+                "max": 3
+            },
+            "flink": {
+                "points": 1,
+                "max": 2
+            },
+            "schnelle-reflexe": {
+                "points": 2,
+                "max": 3
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 5
+            }
+        },
+        "elfen": {
+            "fürsorger": {
+                "points": 1,
+                "max": 1
+            },
+            "handwerk": {
+                "points": 1,
+                "max": 3
+            },
+            "heimlichkeit": {
+                "points": 1,
+                "max": 2
+            },
+            "instrument": {
+                "points": 2,
+                "max": 3
+            },
+            "jäger": {
+                "points": 1,
+                "max": 5
+            },
+            "reiten": {
+                "points": 1,
+                "max": 3
+            },
+            "schnelle-reflexe": {
+                "points": 2,
+                "max": 3
+            },
+            "schütze": {
+                "points": 2,
+                "max": 2
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 10
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 10
+            },
+            "wissensgebiet:geschichte": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:historisches-ereignis": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:kräuterkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:naturkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:tierkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:wetterkunde": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "fernkämpfer": {
+            "fieser-schuss": {
+                "points": 2,
+                "max": 1
+            },
+            "schütze": {
+                "points": 2,
+                "max": 2
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 5
+            }
+        },
+        "gewieft": {
+            "charmant": {
+                "points": 1,
+                "max": 3
+            },
+            "schlitzohr": {
+                "points": 1,
+                "max": 3
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 5
+            },
+            "wissensgebiet:falschspiel": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:lippenlesen": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:menschenkenntnis": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "gnome": {
+            "alchemie": {
+                "points": 1,
+                "max": 5
+            },
+            "beute-schätzen": {
+                "points": 1,
+                "max": 2
+            },
+            "bildung": {
+                "points": 1,
+                "max": 5
+            },
+            "runenkunde": {
+                "points": 1,
+                "max": 1
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 5
+            },
+            "wissensgebiet:mechanik": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:naturkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:stein-und-metallkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:sternenkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:verwaltung": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "halblinge": {
+            "ausweichen": {
+                "points": 2,
+                "max": 3
+            },
+            "diebeskunst": {
+                "points": 1,
+                "max": 2
+            },
+            "fürsorger": {
+                "points": 1,
+                "max": 1
+            },
+            "glückspilz": {
+                "points": 2,
+                "max": 3
+            },
+            "heimlichkeit": {
+                "points": 1,
+                "max": 2
+            },
+            "instrument": {
+                "points": 1,
+                "max": 3
+            },
+            "kletterass": {
+                "points": 2,
+                "max": 1
+            },
+            "schnelle-reflexe": {
+                "points": 2,
+                "max": 3
+            },
+            "wissensgebiet:kochkunst": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:landwirtschaft": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:sagen-und-legenden": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "kampfkunst": {
+            "kämpfer": {
+                "points": 2,
+                "max": 2
+            },
+            "parade": {
+                "points": 1,
+                "max": 3
+            },
+            "verletzen": {
+                "points": 2,
+                "max": 1
+            },
+            "wahrnehmung": {
+                "points": 1,
+                "max": 5
+            },
+            "wissensgebiet:kriegskunst": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:waffenkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "zwei-waffen": {
+                "points": 2,
+                "max": 1
+            }
+        },
+        "kraft": {
+            "blocker": {
+                "points": 2,
+                "max": 2
+            },
+            "brutaler-hieb": {
+                "points": 1,
+                "max": 2
+            },
+            "prügler": {
+                "points": 1,
+                "max": 1
+            },
+            "standhaft": {
+                "points": 2,
+                "max": 2
+            }
+        },
+        "kriminell": {
+            "diebeskunst": {
+                "points": 1,
+                "max": 2
+            },
+            "heimlichkeit": {
+                "points": 1,
+                "max": 2
+            },
+            "schlitzohr": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:falschspiel": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:fälschen": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "landvolk": {
+            "fürsorger": {
+                "points": 1,
+                "max": 1
+            },
+            "handwerk": {
+                "points": 1,
+                "max": 3
+            },
+            "instrument": {
+                "points": 1,
+                "max": 3
+            },
+            "reiten": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:kräuterkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:landwirtschaft": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:tierkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:wetterkunde": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "reitervolk": {
+            "instrument": {
+                "points": 1,
+                "max": 3
+            },
+            "jäger": {
+                "points": 1,
+                "max": 2
+            },
+            "reiten": {
+                "points": 1,
+                "max": 5
+            },
+            "wissensgebiet:tierkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:wetterkunde": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "seefahrer": {
+            "schwimmen": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:bootsbau": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:fischen": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:seefahrt": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:sternenkunde": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "urban": {
+            "bildung": {
+                "points": 1,
+                "max": 5
+            },
+            "handwerk": {
+                "points": 1,
+                "max": 3
+            },
+            "instrument": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:gassenwissen": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:gildenstruktur": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:verwaltung": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "wildnis": {
+            "instrument": {
+                "points": 1,
+                "max": 3
+            },
+            "jäger": {
+                "points": 1,
+                "max": 2
+            },
+            "wissensgebiet:höhlenkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:kräuterkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:naturkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:wetterkunde": {
+                "points": 1,
+                "max": 3
+            }
+        },
+        "zäh": {
+            "einstecker": {
+                "points": 2,
+                "max": 3
+            },
+            "magieresistent": {
+                "points": 1,
+                "max": 3
+            },
+            "standhaft": {
+                "points": 2,
+                "max": 2
+            }
+        },
+        "zorn": {
+            "raserei": {
+                "points": 2,
+                "max": 1
+            },
+            "schlachtruf": {
+                "points": 2,
+                "max": 1
+            }
+        },
+        "zwerge": {
+            "blocker": {
+                "points": 2,
+                "max": 2
+            },
+            "handwerk": {
+                "points": 1,
+                "max": 5
+            },
+            "kämpfer": {
+                "points": 2,
+                "max": 2
+            },
+            "schlachtruf": {
+                "points": 2,
+                "max": 1
+            },
+            "standhaft": {
+                "points": 2,
+                "max": 2
+            },
+            "wissensgebiet:bergbau": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:braukunst": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:höhlenkunde": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:religion-cor": {
+                "points": 1,
+                "max": 3
+            },
+            "wissensgebiet:stein-und-metallkunde": {
+                "points": 1,
+                "max": 3
+            }
+        }
+    }
+}

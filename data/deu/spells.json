@@ -550,7 +550,7 @@
             "distance": "VE x 2m",
             "cooldown": "100 KR",
             "category": "",
-            "compact": "max. Anz. ZAW-Stufe/2 fliehen VE KR",
+            "compact": "max. Anz. ZAW-Stufe/2 fliehen für VE KR",
             "details": "Bei Erfolg fliehen betroffene Ziele - maximal eine Anzahl gleich der halbierten Stufe des Zauberwirkers - so schnell wie möglich in panischer Angst und können erst nach Ablauf der Zauberdauer wieder umkehren. Der Effekt endet bei jedem Fliehenden, der Schaden erleidet.",
             "type": "Zauber"
         },

@@ -65,7 +65,7 @@
             "compact": "+2 Bonus auf Dämonen beschwören & kontrollieren",
             "details": "Der Charakter ist ein Experte im Beschwören von Dämonen. Er erhält auf alle Versuche, Dämonen zu beschwören und diese zu kontrollieren einen Bonus von +2 pro Talentrang."
         },
-        "appraise": {
+        "beute-schätzen": {
             "name": "Beute schätzen",
             "tags": "",
             "compact": "+3 Bonus auf Werte schätzen und Magie erspüren",
@@ -172,7 +172,7 @@
             "compact": "+1 Bonus auf Feuerzauber",
             "details": "Der Zauberwirker ist geübt im Umgang mit Feuermagie. Er erhält auf alle Zauber, die einen Feuereffekt haben, einen Bonus von +1 pro Talentrang."
         },
-        "fieser-schuß": {
+        "fieser-schuss": {
             "name": "Fieser Schuss",
             "compact": "Schießen +AGI",
             "details": "Pro Talentrang kann der Charakter einmal pro Kampf seinen Wert in Schießen einen Angriff lang um den Wert von Agilität erhöhen. Es ist möglich, mehrere Talentränge in einem einzigen Schuß zu vereinen. Zielzauber profitieren nicht von diesem Talent."
@@ -252,7 +252,7 @@
             "compact": "+2 Bonus auf VE und/oder AU durch Hilfswesen",
             "details": "Der Erzmagier erschafft Kraft seiner Magie einen kleinen, magischen, humanoiden Begleiter, der ihm beim Zaubern helfen kann.Der Homunkulus hat KöR, AGI und GEI jeweils 4 und verfügt über 6 Punkte für Eigenschaften, die der Erzmagier frei verteilen kann.Homunkuli sind klein (halbe LK, zu treffen -2) und können nur Grunzlaute von sich geben, verstehen aber simple Worte und einsilbige Befehle ihres Erschaffers. Befindet sich der Homunkulus nicht mehr als AU x 5 (des Charakters) in Metern von dem Erzmagier entfernt, kann er ihm pro Talentrang einen aufteilbaren Bonus von +2 auf VE und/oder AU geben. Die genaue Verteilung kann der Erzmagier jede Runde als freie Handlung umändern. Es ist nicht möglich, die Talente Vertrauter oder Vertrautenband auf Homunkuli anzuwenden.Homunkuli sind äußerst feige und scheuen den Kampf. Sie ergreifen die Flucht, sobald sie Schaden erhalten und kehren erst zu ihrem Erschaffer zurück, wenn die Gefahr vorüber ist, dann jedoch so schnell wie möglich. Dank der Fähigkeit, ihren Erschaffer und seine Gemütslage zu spüren, stellt dies für sie kein Problem dar. Stirbt ein Homunkulus, kann der Erzmagier innerhalb von W20 Stunden einen neuen erschaffen, sofern er in dieser Zeit Zugang zu einem Alchimistenlabor hat.(Details Seite 25)"
         },
-        "disengage": {
+        "ich-muss-weg": {
             "name": "Ich muss weg",
             "compact": "Alle Nahkampfangriffe durch Flucht eine Runde ignorieren",
             "details": "Pro Talentrang kann der Charakter in jedem Kampf für jeweils eine Runde sämtliche gegen ihn gerichteten Nahkampfangriffe komplett ignorieren. Dabei darf er aber seine Gegner nicht attackieren, sondern muss sich dabei um mindestens 2m von ihnen entfernen."
@@ -282,7 +282,7 @@
             "compact": "(24h) Wahrnehmung -Stufe für Rang Runden durch Ablenkung",
             "details": "Der Meisterdieb kann einmal alle 24 Stunden pro Talentrang eine Zielperson durch Ansprechen, Vorbeidrängeln etc. derart ablenken, dass sämtliche Bemerken-Proben gegen Taschendiebstahl u.ä. dieser Person für Talentrang in Runden um die Stufe des Meisterdiebes erschwert werden."
         },
-        "masterclimber": {
+        "kletterass": {
             "name": "Kletterass",
             "compact": "+2 Bonus auf Klettern; +1m Klettern; Klettern auch kopfüber",
             "details": "Der Charakter erhält auf alle Klettern- Probe einen Bonus von +2 pro Talentrang und die normale Klettergeschwindigkeit von Laufen/2 wird pro Talentrang um 1m erhöht. Außerdem kann der Charakter an überhängenden Wänden oder gar kopfüber an Decken ganz „normal“ klettern (also diesbezügliche Mali ignorieren), sofern diese nicht gänzlich eben sind, sondern über Vorsprünge, Stalagtiten, Mauerfugen o.ä. verfügen."
@@ -302,7 +302,7 @@
             "compact": "+1 Bonus auf Beschwören; schneller Kreise zeichnen",
             "details": "Der Charakter ist ein Meister im Zeichnen von Beschwörungskreisen und kann pro Talentrang 2 weitere Stunden Arbeit in sie investieren. Zusätzlich wird der Zeitaufwand von jeder Stunden, die an dem Kreis gezeichnet wird, um 15 Minuten pro Talentrang gesenkt. Außerdem gewährt das Talent +1 pro Talentrang beim Beschwören, selbst wenn dies nur mit einem improvisierten Beschwörungskreis geschieht."
         },
-        "pickpocket": {
+        "langfinger": {
             "name": "Langfinger",
             "compact": "Taschendiebstahl +AGI",
             "details": "Bei Versuchen, Leute zu bestehlen, kann der Meisterdieb einmal alle 24 Stunden pro Talentrang AGI zu seiner Probe auf Taschendiebstahl dazu addieren. Es ist möglich, mehrere Talentränge in einer einzelnen Probe zu vereinen. Ebenso ist es natürlich mit Diebeskunst kombinierbar."
@@ -422,7 +422,7 @@
             "compact": "+1 Fernangriff",
             "details": "Einmal pro Kampf kann der Charakter mit einer Fernkampfwaffe einen zusätzlichen Schuss pro Talentrang abfeuern. Bei mehreren Talenträngen können die zusätzlichen Schüsse alle zusammen in einer Runde gebündelt abgefeuert werden oder aufgeteilt in einzelnen Runden. Die einzelnen Schüsse werden dabei als eigenständige Angriffe behandelt, können also beispielsweise nicht mehrfach durch das Talent Fieser Schuss aufgebessert werden."
         },
-        "mountedarcher": {
+        "sattelschütze": {
             "name": "Sattelschütze",
             "compact": "beritten Schießen, +5 Malus",
             "details": "Dieses Talent gestattet dem Charakter, während des Reitens mit einer Schusswaffe zu schießen, die mit beiden Händen gehalten wird. Dennoch gibt es bei diesem schwierigen Manöver immer noch einen Malus von -5 im Trab und -10 im Galopp auf die Schießen- Probe (siehe Seite 92). Durch den zweiten und dritten Talentrang in Sattelschütze kann dieser Malus jedoch um jeweils 5 gemindert werden. Der Charakter benötigt mindestens einen Talentrang im Talent Reiten, um Sattelschütze erwerben zu können."
@@ -497,17 +497,17 @@
             "compact": "Bewusstlos erst ab -Rang x3 LK",
             "details": "Pro Talentrang sinkt die Lebenskraft- Grenze, ab der ein Charakter bewusstlos wird, um jeweils 3. Ein Charakter mit Standhaft III wird also erst mit -9 LK bewusstlos, statt schon bei Null. Alles natürlich nur unter der Voraussetzung, dass man so viele negative LK auch überleben kann (siehe Seite 42)."
         },
-        "imp": {
+        "teufelchen": {
             "name": "Teufelchen",
             "compact": "Kampfunterstützung durch Teufelchen",
             "details": "Der Beschwörer erhält pro Talentrang ein kleines, fliegendes Teufelchen als Begleiter, das ihn im Kampf unterstützt. Teufelchen können nur Knurrlaute von sich geben, verstehen aber simple Worte und einsilbige Befehle ihres Beschwörers. Sobald der Charakter es befiehlt oder das Teufelchen über weniger als 1LK verfügt, kehrt es zurück auf seine Existenzebene, von wo es erst nach frühestens W20 Stunden wiederkehren kann, sofern der Charakter dies wünscht. Es ist nicht möglich, die Talente Vertrauter oder Vertrautenband auf ein Teufelchen anzuwenden. Siehe Seite 33."
         },
-        "animalform": {
+        "tiergestalt": {
             "name": "Tiergestalt",
             "compact": "Verwandlung in normal großes Tier",
             "details": "Der Druide kann sich pro Talentrang einmal alle 24 Stunden samt seiner Ausrüstung (magische Boni von Gegenständen wirken dadurch weiterhin) in ein Tier der Größenkategorie “normal” (siehe Seite 104) oder kleiner verwandeln, wie beispielsweise eine Maus, eine Katze oder ein Wolf, aber keine magischen, giftigen oder flugfähigen Tiere. Die Verwandlung dauert eine Runde und kann jederzeit rückgängig gemacht werden, erlittener Schaden bleibt nach der Rückverwandlung gänzlich bestehen. GEI, VE und AU des Druiden verändern sich in Tiergestalt nicht, jedoch nehmen alle anderen Attribute, Eigenschaften und Kampfwerte die Werte des Tieres an, nicht jedoch Spezialangriffe wie beispielsweise den Giftbiss einer Schlange. In Tiergestalt ist es dem Druiden nicht möglich, zu sprechen oder zu zaubern, wohl aber, Gesprochenes zu verstehen und die Sinne des Tieres einzusetzen. Zauber, die beispielsweise Tiere kontrollieren, haben auf den verwandelten Druiden keinen Einfluss"
         },
-        "beastmaster": {
+        "tiermeister": {
             "name": "Tiermeister",
             "compact": "+3 Bonus auf Tierumgang; aggressive Tiere beruhigen (24h)",
             "details": "Der Charakter hat ein Gespür für Tiere und erhält auf alle Proben im Umgang mit ihnen +3 (dieser Bonus zählt auch auf Reiten- Proben, um die Reitgeschwindigkeit oder die Richtung zu ändern). Einmal alle 24 Stunden pro Talentrang kann er außerdem eine beliebige Anzahl wilder, aggressiver oder selbst ausgehungerter Tiere dazu bringen, ihn und zwei Begleiter pro Talentrang zu verschonen (es sei denn, sie greifen ihrerseits die Tiere an). Dies ist auch bei tollwütigen oder kontrollierten Tieren möglich, sofern hier dem Charakter eine Probe gegen GEI+AU+Talentrang gelingt (zählt als ganze Aktion, ein Versuch pro Talentrang)."
@@ -587,7 +587,7 @@
             "compact": "Schlagen +1, GA-1 für eine spezielle Waffe",
             "details": "Pro Talentrang kann der Charakter besondere Kenntnisse im Umgang mit einer bestimmten Art von Nahkampf- waffe erlangen (beispielsweise Dolche, Langschwerter oder Streitäxte). Er erhält im Kampf mit dieser Waffenart Schlagen +1 und die Abwehr des Gegners wird um 1 gesenkt. Es ist nicht möglich, Waffenkenner mehrmals für ein und dieselbe Waffenart zu erlangen, jedoch kann der Talentrang mit Hilfe des Talents Perfektion weiter ausgebaut werden."
         },
-        "unarmedmaster": {
+        "waffenloser-meister": {
             "name": "Waffenloser Meister",
             "compact": "WB+1, GA-1; Initiative +1, Abwehr +1 falls nur Stoffrüstung",
             "details": "Der Kampfmönch ist ein Meister des waffenlosen Kampfes, der WB seiner unbewaffneten Angriffe beträgt +1 pro Talentrang. Der normalerweise gültige Bonus von +5 auf Abwehr gegen waffenlose Angriffe entfällt bei seinen Gegnern, deren Abwehr außerdem noch pro Talentrang um 1 gesenkt wird. Außerdem erhält ein waffenloser Meister +1 auf Abwehr und Initiative pro Talentrang, sofern er keinen Schild und keine Art von Rüstungen bis auf Stoff trägt."
@@ -607,7 +607,7 @@
             "compact": "+3 Bonus auf spezielles Wissensgebiet",
             "details": "Dieses Talent wird für jedes Wissensgebiet (Alte Sagen, Mathematik, Naturkunde, Sternenkunde, Zwergische Religion usw.) individuell erlernt, kann also mehrmals bis Höchstrang III erworben werden. Man beherrscht das jeweilige Wissensgebiet und erhält auf alle diesbezüglichen Proben einen Bonus von +3 pro Talentrang, den man für dieses Wissensgebiet erworben hat."
         },
-        "releasespell": {
+        "zauber-auslösen": {
             "name": "Zauber auslösen",
             "compact": "Zauber einer speziellen Klasse von Schriftrollen auslösen",
             "details": "Der Meisterdieb kann, wie ein Zauberwirker, Zaubersprüche von Schriftrollen oder aus Zauberbüchern ablesen und dadurch auslösen, wodurch die Schrift des Zaubers verblasst und er verschwindet. Pro Talentrang wird eine der drei Zauberklassen Heiler, Zauberer oder Schwarzmagier gewählt und fortan kann der Charakter alle Zauber, die dieser Klasse zugänglich sind, unabhängig von seiner Stufe ablesen und auslösen."
