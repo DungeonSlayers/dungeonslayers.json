@@ -12,7 +12,7 @@ module.exports = {
       return console.log('Bitte eine gültige klasse mit der option -k angeben (z.B. -k healer');
     }
 
-    opt.sortby = opt.order || 'name';
+    opt.sortby = opt.order || 'level';
     opt.stufe = opt.stufe || 25;
     opt.culture = opt.culture || '_none'
     opt.language = 'deu';

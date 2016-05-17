@@ -79,7 +79,7 @@ function hashToList(hash, options) {
         list.push(_.merge(talent, {id: id }));
     });
     list = _.sortBy(list, function (talent) {
-        if (opt.sortby === 'name') return talent.name
+        if (opt.sortby === 'name' || talent.points) return talent.name
         if (opt.sortby === 'level') {
             var pre = String(talent.prequisite);
             return (pre.length < 2 ? '0' : '') + pre + talent.name
